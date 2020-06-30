@@ -12,9 +12,9 @@ You find a mystery envelope on the ground with a cryptic note inside...
 
 On the back of the note, it reads:
 
-*Can you discover the true meaning of this note? I will give you the details for a meeting place and time, and I’m counting on your skills as a world-famous code-breaker. 
+_Can you discover the true meaning of this note? I will give you the details for a meeting place and time, and I’m counting on your skills as a world-famous code-breaker._
 
-To help you, I’ve enclosed instructions for how to command an enchanted Python that will do whatever you command.*
+_To help you, I’ve enclosed instructions for how to command an enchanted Python that will do whatever you command._
 
 **Let's crack the this cryptic note to find the easter egg!**
 
