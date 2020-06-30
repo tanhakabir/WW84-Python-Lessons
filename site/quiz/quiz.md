@@ -13,9 +13,13 @@ weapon = input( "Which weapon?\n(A) Lasso\n(B) No weapon, thank you\n" )
 # print out which weapon they chose
 print( f"You chose {weapon}.")
 ```
-Press the Play Button, and you should see the question print out, along with the options. Try typing A and see what happens!
+Press the Play Button, and you should see the question print out, along with the options. Click in the TERMINAL area and try typing A then enter to see what happens!
+
+<img width="959" alt="weaponchoice" src="https://user-images.githubusercontent.com/12758612/86166858-57f42680-baca-11ea-8911-a681e76a0ece.png">
  
 Notice that the weapon variable simply stores whatever you typed. Try typing lion instead and see what happens…
+
+<img width="330" alt="lion" src="https://user-images.githubusercontent.com/12758612/86166879-64787f00-baca-11ea-9ebd-dcd20a74b182.png">
  
 For now, let’s assume the candidate understands that they should type the letter of their choice (and capitalize it correctly). Then we can use a conditional to have the Python execute commands depending on what they chose. Try adding the following commands to your file:
 ```python
@@ -24,7 +28,11 @@ if weapon == "A":
     print( "Nice choice!" )
 ```
 Press the Play Button and try entering A as your choice. What happens if you enter B instead?
+
+<img width="959" alt="choiceA" src="https://user-images.githubusercontent.com/12758612/86167828-15334e00-bacc-11ea-8449-1f62ab91b00e.png">
  
+---
+
 Okay, let’s put all our questions in! Replace the commands in your script with the following. For now, we’ll just print out the responses to make sure everything is hooked up correctly.
 ```python
 # ask the candidate a question
@@ -41,8 +49,13 @@ decade = input( "What’s your favorite decade?\n(A) 1950s\n(B) 1990s\n" )
 
 # ask the candidate a fifth question
 animal = input( "What’s your favorite big cat?\n(A) Tiger\n(B) Cheetah\n" )
+
+# print out their choices
+print( f"You chose {weapon}, then {job}, then {value}, then {decade}, then {animal}.")
 ```
 Press the Play button and make sure your responses are recorded correctly!
+
+<img width="960" alt="printquizinit" src="https://user-images.githubusercontent.com/12758612/86168348-f5e8f080-bacc-11ea-94a6-6c3c36e41994.png">
  
 Now it’s time to really score the quiz. With three questions and different choices, we’ll use some variables to guide our response. Add the following commands to your file.
 ```python
@@ -98,6 +111,7 @@ else:
 ```
 Press the Play button and find out which Wonder Woman personality you’re most like!
  
+<img width="960" alt="quizatendbuzz" src="https://user-images.githubusercontent.com/12758612/86168980-c8507700-bacd-11ea-8bfe-07274e3655df.png">
 
 ### Credits
 This lesson plan was inspired by and adapted from the “active learning module” developed by Emily Craig and Sarah Robinson while they were part of the MaGE Inclusive Peer Mentorship Program at Mount Holyoke College. 
