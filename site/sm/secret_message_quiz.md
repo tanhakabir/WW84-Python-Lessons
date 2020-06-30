@@ -39,4 +39,4 @@ Press the Play Button, and use the clues in the cryptic note to answer the quest
 <img width="957" alt="messagequiz" src="https://user-images.githubusercontent.com/12758612/85894863-61b81a00-b7aa-11ea-8f3c-19e9732cff9d.png">
 
 
-Check your work with the completed code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/decrypt.py)!
+Check your work with the completed code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/decrypt.py){:target="_blank"}!
