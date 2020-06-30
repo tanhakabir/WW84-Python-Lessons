@@ -6,15 +6,19 @@ Let's get and set up Visual Studio Code and Python first. If you already have th
 
 ---
 
-You can download Visual Studio Code here: [code.visualstudio.com/Download](https://code.visualstudio.com/Download). Choose the Windows version:
+You can download Visual Studio Code here: [code.visualstudio.com/Download](https://code.visualstudio.com/Download). Choose the Linux version the fits your type of Linux:
 
-<img width="219" alt="vsdlwin" src="https://user-images.githubusercontent.com/12758612/85624083-33a5cf00-b61e-11ea-83c2-16bfc95a3e21.png">
+<img width="263" alt="vsdllinx" src="https://user-images.githubusercontent.com/12758612/86159538-5b35e500-babf-11ea-8c83-55ce0dfa5a04.png">
 
-Let's also download the powerful Python here: [www.python.org/downloads/](https://www.python.org/downloads/) **Important!** Be sure when installing Python to make sure you Add Python 3.8 to PATH!
+When installing Visual Studio Code, accept the terms and conditions and use the default settings from the installer.
+
+---
+
+Let's also download the powerful Python here: [www.python.org/downloads/](https://www.python.org/downloads/)
 
 <img width="443" alt="openflder" src="https://user-images.githubusercontent.com/12758612/84756731-08651500-af78-11ea-9fe1-0df133fc66a5.png">
 
-<img width="498" alt="pyintsall" src="https://user-images.githubusercontent.com/12758612/85446938-e6582d80-b549-11ea-9532-86c20aced8d6.png">
+---
 
 Once they're both finished downloading, open up Visual Studio Code. We need to give Visual Studio Code the powers of Python. Click on the icon with 4 squares on the left hand size, search for Python, and install the first result.
 
