@@ -30,9 +30,9 @@ To have the Python follow your commands, press the green Play Button in the uppe
 
 # Basics
 
-Before you dive into the full Buzzfeed Quiz, let’s walk you through the basics for commanding the Python. If you already know how to use variables and conditionals, you can skip to the next part!
+Before you dive into the full personality quiz, let’s walk you through the basics for commanding the Python. If you already know how to use variables and conditionals, you can skip to the next part!
 
-### [**Skip basics**](buzzfeed/quiz.md)
+### [**Skip basics**](quiz.md)
 
 ## Comments
 First, we can write comments to ourselves that the Python will ignore. On any line where we use the # symbol, the Python ignores everything after.
@@ -133,4 +133,4 @@ Press the Play Button, and you should see the state-of-the-art in messaging.
 
 Now that we have the handle on some of the basics, let's move on to making the quiz!
 
-### [**Next step**](buzzfeed/quiz.md)
+### [**Next step**](quiz.md)

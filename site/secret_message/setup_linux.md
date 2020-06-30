@@ -1,14 +1,14 @@
-# Setting up Visual Studio Code and Python for Mac
+# Setting up Visual Studio Code and Python for Linux
 
 Let's get and set up Visual Studio Code and Python first. If you already have these set up, you can skip ahead!
 
-### [**Skip ahead**](secret_message_basics.md)
+### [**Skip ahead**](basics.md)
 
 ---
 
-You can download Visual Studio Code here: [code.visualstudio.com/Download](https://code.visualstudio.com/Download). Choose the Mac version:
+You can download Visual Studio Code here: [code.visualstudio.com/Download](https://code.visualstudio.com/Download). Choose the Linux version the fits your type of Linux:
 
-<img width="224" alt="vsdlapple" src="https://user-images.githubusercontent.com/12758612/86159412-27f35600-babf-11ea-97a4-71273c75f931.png">
+<img width="263" alt="vsdllinx" src="https://user-images.githubusercontent.com/12758612/86159538-5b35e500-babf-11ea-8c83-55ce0dfa5a04.png">
 
 When installing Visual Studio Code, accept the terms and conditions and use the default settings from the installer.
 
@@ -26,4 +26,4 @@ Once they're both finished downloading, open up Visual Studio Code. We need to g
 
 Now that we have everything installed, we can start commanding Python!
 
-### [**Next step**](secret_message_basics.md)
+### [**Next step**](basics.md)
