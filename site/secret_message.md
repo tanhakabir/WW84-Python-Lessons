@@ -27,9 +27,9 @@ First, you’ll need a way to command the enchanted Python! Luckily, my team has
 | Windows| Mac | Linux |
 | :---: | :---: | :---: |
 | ![windows](https://user-images.githubusercontent.com/12758612/85619458-2e915180-b617-11ea-8028-94796c46198b.jpg) | <img width="83" alt="1200px-Apple_logo_black svg" src="https://user-images.githubusercontent.com/12758612/85620235-57fead00-b618-11ea-8d1e-6b305241c724.png"> | <img alt="Linux-logo" src="https://user-images.githubusercontent.com/12758612/85620609-e07d4d80-b618-11ea-99f2-dfeb1c717dd3.png"> |
-| [**Windows instructions**](secret_message_setup_win.md) | [**Mac instructions**](secret_message_setup_mac.md) | [**Linux instructions**](secret_message_setup_linux.md) |
+| [**Windows instructions**](sm/secret_message_setup_win.md) | [**Mac instructions**](sm/secret_message_setup_mac.md) | [**Linux instructions**](sm/secret_message_setup_linux.md) |
 
 
 If you already have Visual Studio Code and Python setup then, you can skip ahead to the next step.
 
-### [**Skip setup**](secret_message_basics.md)
+### [**Skip setup**](sm/secret_message_basics.md)
