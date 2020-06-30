@@ -1,9 +1,16 @@
 # Okay, now let’s make that Buzzfeed Quiz! 
 
-We’ll be asking a streamlined version of this quiz. We’ll use just 3 questions and 2 options for each:
-e.	Which weapon? (A) Lasso (B) No weapons
-f.	Which location? (A) Hawaii (B) Themyscira
-g.	What transportation? (A) Train (B) Horse
+We’ll be asking a streamlined version of this quiz. We’ll use just 5 questions and 2 options for each: 
+
+Which weapon? (A) Lasso (B) No weapons 
+
+What’s your dream job? (A) Curator at the Smithsonian (B) Running a business
+
+What’s more important? (A) Money (B) Love
+
+What’s your favorite decade? (A) 1950s (B) 1990s
+
+What’s your favorite big cat? (A) Tiger (B) Cheetah
 
 Hmm, somehow the Python needs to ask the candidate a question. We can command it to do so using the input command; this gives back (returns) the candidate’s answer, which we can store in a variable. Try replacing the commands in your file with the following. (If you’re wondering what the \n is doing, it tells the Python to put in a newline or “hit the return” key.)
 ```python
@@ -57,7 +64,7 @@ Press the Play button and make sure your responses are recorded correctly!
 
 <img width="960" alt="printquizinit" src="https://user-images.githubusercontent.com/12758612/86168348-f5e8f080-bacc-11ea-94a6-6c3c36e41994.png">
  
-Now it’s time to really score the quiz. With three questions and different choices, we’ll use some variables to guide our response. Add the following commands to your file.
+Now it’s time to really score the quiz. With five questions and different choices, we’ll use some variables to guide our response. Add the following commands to your file.
 ```python
 # create some variables for scoring
 diane_like = 0
