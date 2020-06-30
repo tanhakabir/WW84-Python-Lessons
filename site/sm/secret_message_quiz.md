@@ -40,3 +40,5 @@ Press the Play Button, and use the clues in the cryptic note to answer the quest
 
 
 Check your work with the completed code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/decrypt.py){:target="_blank"}!
+
+**Credits**: Special thanks to [Audrey St. John from Mount Holyoke College](https://www.mtholyoke.edu/people/audrey-stjohn) for this lesson!
