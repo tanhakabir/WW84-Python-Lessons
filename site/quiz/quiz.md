@@ -120,6 +120,8 @@ Press the Play button and find out which Wonder Woman personality you’re most 
  
 <img width="960" alt="quizatendbuzz" src="https://user-images.githubusercontent.com/12758612/86168980-c8507700-bacd-11ea-8bfe-07274e3655df.png">
 
+Check your code with the completed quiz code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/quiz.py)!
+
 ### Credits
 This lesson plan was inspired by and adapted from the “active learning module” developed by Emily Craig and Sarah Robinson while they were part of the MaGE Inclusive Peer Mentorship Program at Mount Holyoke College. 
 

@@ -1,26 +1,24 @@
-# Save the Day -- use Python to decrypt a secret message!
+# Crack the code -- use Python to decrypt a secret message!
 
-Wonder Woman needs your help! Can you save the day by commanding a powerful Python to find the truth behind a mysterious amulet?
+Help crack the code to a secret WONDER WOMAN 1984 location! We can learn to command a powerful Python to find the truth behind the mystery easter egg location!
 
-Get a glimpse into the popular Python programming language with this introductory lesson that assumes zero background! You’ll be led through instructions to write two programs and learn about variables and functions.
+Get a glimpse into the popular Python programming language with this introductory lesson that assumes zero background! You’ll be led through instructions to write a program and learn about variables and functions.
 
 ## Your journey begins…
-You’ve just received an urgent page
-… Wonder Woman needs your help! … 
- 
-You race to the office and find a package -- inside is a beautiful amulet along with a cryptic note. 
+
+You find a mystery envelope on the ground with a cryptic note inside...
 
 <img width="576" alt="try1" src="https://user-images.githubusercontent.com/12758612/85893967-b5296880-b7a8-11ea-9c5a-0b5fbf4876a6.png">
 
-Another note from Diana reads:
+On the back of the note, it reads:
 
-*This package just arrived from an unknown donor at the Smithsonian. I can sense that this amulet is indeed powerful, but cannot make sense of the note! It must give the details for a meeting place and time, and I’m counting on your skills as a world-famous code-breaker. Can you help me uncover the true meaning? 
-To help you, I’ve enclosed instructions for how to command an enchanted Python that will do whatever you command.
-\- Diana*
+*Can you discover the true meaning of this note? I will give you the details for a meeting place and time, and I’m counting on your skills as a world-famous code-breaker. 
 
-**Will you help Wonder Woman? Can you save the day?**
+To help you, I’ve enclosed instructions for how to command an enchanted Python that will do whatever you command.*
 
-### Diana’s instructions are below -- follow them to reveal the truth behind the note!
+**Let's crack the this cryptic note to find the easter egg!**
+
+### The mystery note's instructions are below -- follow them to reveal the truth...
 
 First, you’ll need a way to command the enchanted Python! Luckily, my team has created something called Visual Studio Code that will allow you to do just that. 
 

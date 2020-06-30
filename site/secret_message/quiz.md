@@ -2,12 +2,12 @@
 
 # Where will this journey take you? Diana’s note continues… 
 
-The Python can simulate certain parts of the future under the right circumstances! Follow these instructions and see if you could save the day, knowing the truth behind the cryptic note!
+The Python can simulate certain parts of the future under the right circumstances! Follow these instructions and see if you can discover the hidden location and meeting time, knowing the truth behind the cryptic note!
 
 Copy the following below your decryption code:
 ```python
 score = 0
-response1 = input( "Which date will Diana be waiting to meet you?\n (A) Jan 4, 1984\n (B) Dec 4, 1984\n (C) Feb 4, 1984\n (D) Jul 4, 1984\n" )
+response1 = input( "Which date will you time travel to for the secret location?\n (A) Jan 4, 1984\n (B) Dec 4, 1984\n (C) Feb 4, 1984\n (D) Jul 4, 1984\n" )
 
 
 if "B" in response1.upper():
@@ -27,11 +27,11 @@ elif "D" in response2.upper():
 
 
 if score == 20: 
-    print( "You save the day! You meet the mysterious donor while others learn about the behavior of the\n\"pecan\" at its keeper talk. The donor reveals the amulet's true power and how to use it for\ngood, letting you save the good citizens of Themyscira from the latest threat!" )
+    print( "You discovered the easter egg location! You cracked the cryptic note and found the true meaning behind \"oskza ohupo\"!" )
 elif score > 0:
-    print( "Wonder Woman saves the day! You got a little lost along the way, but luckily Wonder Woman\nwas able figure out the truth behind the note in time. She meets the mysterious donor, who\nreveals the amulet's true power and how to use it for good. You arrive in time to see\nWonder Woman save the good citizens of Themyscira from the latest threat!" )
+    print( "Whoops! You got a little lost along the way, try decrypting the note again!" )
 else: 
-    print( "What are you doing having a latte and a scone when the good citizens of Themyscira are under attack?!")
+    print( "What are you doing having a latte and a scone when you're supposed to be at the easter egg location?!")
 ```
 
 Press the Play Button, and use the clues in the cryptic note to answer the questions. Click the TERMINAL area at the bottom and type the letter for your response, then hit return. Answer all the questions to glimpse your future! Did you save the day?
