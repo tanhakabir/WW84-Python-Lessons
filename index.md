@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # Learn the Wonder of Programming
 
 The world needs creators, coders, leaders, and heroes now more than ever. With your skills and our technology, we can restore balance to the world and inspire new possibilities. Discover five new Microsoft learn-to-code lessons inspired by WONDER WOMAN 1984 that teach programming to people of all ages and skill levels.
