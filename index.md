@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+content: home
 ---
 
 # Learn the Wonder of Programming
