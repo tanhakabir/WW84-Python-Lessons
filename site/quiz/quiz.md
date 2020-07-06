@@ -1,4 +1,4 @@
-# Okay, now let’s make that Buzzfeed Quiz! 
+# Okay, now let’s make that Personality Quiz! 
 
 We’ll be asking a streamlined version of this quiz. We’ll use just 5 questions and 2 options for each: 
 
