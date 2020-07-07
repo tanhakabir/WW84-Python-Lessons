@@ -29,8 +29,9 @@ def lassoWord( word, shiftAmount ):
 
 # try out the superpower on the phrase
 print( "Shifting WHY by 13 gives: \n" + lassoWord( "WHY", 13 ) )
-print( "Shifting oskza by 13 gives: \n" + lassoWord( "oskza", -18 ) )
-print( "Shifting ohupo by 13 gives: \n" + lassoWord( "ohupo", -1 ) )
+print( "Shifting oskza by -18 gives: \n" + lassoWord( "oskza", -18 ) )
+print( "Shifting ohupo by -1 gives: \n" + lassoWord( "ohupo", -1 ) )
+print( "Shifting ED by 25 gives: \n" + lassoWord( "ED", 25 ) )
 
 
 score = 0

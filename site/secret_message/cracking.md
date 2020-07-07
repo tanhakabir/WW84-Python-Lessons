@@ -1,8 +1,8 @@
-<img width="576" alt="try1" src="https://user-images.githubusercontent.com/12758612/85893967-b5296880-b7a8-11ea-9c5a-0b5fbf4876a6.png">
+<img width="576" alt="encryptedmessage" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
 
 # Okay, time to get cracking. 
 
-I think the message might be encrypted with something called a “Caesar cipher,” where all the letters are shifted in the alphabet by some amount. I’ll need you to give the Python its own Golden Lasso superpower for finding the true meaning of the words "WHY", “oskza” and “ohupo”.
+I think the message might be encrypted with something called a “Caesar cipher,” where all the letters are shifted in the alphabet by some amount. I’ll need you to give the Python its own Golden Lasso superpower for finding the true meaning of the words "WHY", “oskza”, “ohupo”, and "ED".
 
 Let’s start by giving the superpower to shift a single letter (You might notice some other commands in here, but we don’t have time to cover them all right now.) Replace the code in your file with the following: 
 ```python
@@ -51,8 +51,9 @@ Press the Play Button, and you should see the truth revealed for "terra"!
 # Now… command the Python to use its new superpower to reveal the truth!
 Modify the commands in your file to reveal the truth behind 
 1.  the word "WHY" shifted by 13,
-2.	the word "oskza" shifted by -18, and
-3.	the word "ohupo" shifted by -1
+2.	the word "oskza" shifted by -18
+3.	the word "ohupo" shifted by -1, and
+4.  the word "ED" shifted by 25
 
 Press the Play Button, and you should see the final clue to the true meeting place and time revealed!
 

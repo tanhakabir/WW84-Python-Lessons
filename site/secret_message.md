@@ -8,7 +8,7 @@ Get a glimpse into the popular Python programming language with this introductor
 
 You find a mystery envelope on the ground with a cryptic note inside...
 
-<img width="576" alt="try1" src="https://user-images.githubusercontent.com/12758612/85893967-b5296880-b7a8-11ea-9c5a-0b5fbf4876a6.png">
+<img width="576" alt="encryptedmessage" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
 
 On the back of the note, it reads:
 

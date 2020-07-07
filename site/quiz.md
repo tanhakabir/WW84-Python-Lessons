@@ -1,5 +1,5 @@
-# The (Computer) Science Behind Wonder Woman’s Buzzfeed Quiz
-Have you ever taken a Buzzfeed quiz? You answer a series of multiple choice questions and find out things like... "What type of emoji are you?"
+# The (Computer) Science Behind Wonder Woman’s Personality Quiz
+Have you ever taken a personality quiz, like a Buzzfeed one? You answer a series of multiple choice questions and find out things like... "What type of emoji are you?"
 
 Well, let's help make a new Buzzfeed-like quiz for Wonder Woman 1984: ***What Wonder Woman Character are you?***
 
