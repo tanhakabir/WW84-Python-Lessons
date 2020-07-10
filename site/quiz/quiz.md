@@ -22,7 +22,7 @@ print( f"You chose {weapon}.")
 ```
 Press the Play Button, and you should see the question print out, along with the options. Click in the TERMINAL area and try typing A then enter to see what happens!
 
-<img width="959" alt="weaponchoice" src="https://user-images.githubusercontent.com/12758612/86166858-57f42680-baca-11ea-8911-a681e76a0ece.png">
+<img width="960" alt="quizweapon" src="https://user-images.githubusercontent.com/12758612/87186135-d2c5fa00-c29f-11ea-8db7-a0e58bed61d0.png">
  
 Notice that the weapon variable simply stores whatever you typed. Try typing lion instead and see what happens…
 
@@ -36,7 +36,7 @@ if weapon == "A":
 ```
 Press the Play Button and try entering A as your choice. What happens if you enter B instead?
 
-<img width="959" alt="choiceA" src="https://user-images.githubusercontent.com/12758612/86167828-15334e00-bacc-11ea-8449-1f62ab91b00e.png">
+<img width="960" alt="quizweaponAchoice" src="https://user-images.githubusercontent.com/12758612/87186265-0d2f9700-c2a0-11ea-859d-792710623259.png">
  
 ---
 
@@ -62,7 +62,7 @@ print( f"You chose {weapon}, then {job}, then {value}, then {decade}, then {anim
 ```
 Press the Play button and make sure your responses are recorded correctly!
 
-<img width="960" alt="printquizinit" src="https://user-images.githubusercontent.com/12758612/86168348-f5e8f080-bacc-11ea-94a6-6c3c36e41994.png">
+<img width="960" alt="quizquestions" src="https://user-images.githubusercontent.com/12758612/87186575-9a72eb80-c2a0-11ea-9b13-c3a7cd3649b3.png">
  
 Now it’s time to really score the quiz. With five questions and different choices, we’ll use some variables to guide our response. Add the following commands to your file.
 ```python
@@ -118,7 +118,7 @@ else:
 ```
 Press the Play button and find out which Wonder Woman personality you’re most like!
  
-<img width="960" alt="quizatendbuzz" src="https://user-images.githubusercontent.com/12758612/86168980-c8507700-bacd-11ea-8bfe-07274e3655df.png">
+<img width="960" alt="quizfull" src="https://user-images.githubusercontent.com/12758612/87186738-dc9c2d00-c2a0-11ea-8bb9-fa7ef3c7a5b5.png">
 
 Check your code with the completed quiz code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/quiz.py)!
 
