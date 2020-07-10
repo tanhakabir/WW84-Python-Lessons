@@ -124,8 +124,3 @@ Check your code with the completed quiz code [**here**](https://github.com/micro
 
 ### Credits
 This lesson plan was inspired by and adapted from the “active learning module” developed by Emily Craig and Sarah Robinson while they were part of the MaGE Inclusive Peer Mentorship Program at Mount Holyoke College. 
-
-
-
-### Extra stuff I don’t think I need
-The Python puts a special meaning on the words True and False, and calls them “boolean” values. It turns out that booleans are studied in computer science (and philosophy!) and there is an entire subject called “boolean logic.” You might be comfortable with “arithmetic,” where numbers are operated on to produce other numbers; 1 + 2 is 3. The operands are the numbers 1 and 2, and the operator is the addition operator.  In boolean logic, boolean values (True or False) are operated on to produce other boolean values. We might say, “if it is cold outside AND it is raining, grab a parka.” Then both conditions must be met (must be True) for us to grab a parka. Here the operands are whether or not it is cold outside and whether or not it is raining; the AND operator

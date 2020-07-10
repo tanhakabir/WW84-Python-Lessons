@@ -131,6 +131,11 @@ Press the Play Button, and you should see the state-of-the-art in messaging.
 
 <img width="960" alt="buzzif" src="https://user-images.githubusercontent.com/12758612/86061354-7fd88100-ba1b-11ea-8924-628bef524305.png">
 
+### Booleans (extra)
+The Python puts a special meaning on the words True and False, and calls them “boolean” values. It turns out that booleans are studied in computer science (and philosophy!) and there is an entire subject called “boolean logic.” You might be comfortable with “arithmetic,” where numbers are operated on to produce other numbers; 1 + 2 is 3. The operands are the numbers 1 and 2, and the operator is the addition operator.  In boolean logic, boolean values (True or False) are operated on to produce other boolean values. We might say, “if it is cold outside AND it is raining, grab a parka.” Then both conditions must be met (must be True) for us to grab a parka. Here the operands are whether or not it is cold outside and whether or not it is raining; the AND operator
+
+---
+
 Now that we have the handle on some of the basics, let's move on to making the quiz!
 
 ### [**Next step**](quiz.md)
