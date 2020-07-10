@@ -10,9 +10,9 @@ Then open Visual Studio Code and select "Open folder..." from the start screen; 
 
 ---
 
-Let's create a file called "buzzfeed.py".
+Let's create a file called "quiz.py".
 
-<img width="376" alt="newfilebuzzfeed" src="https://user-images.githubusercontent.com/12758612/86024478-e345bd00-b9e1-11ea-878e-4d82879e9d4e.png">
+<img width="379" alt="newfilequiz" src="https://user-images.githubusercontent.com/12758612/87181544-5d562b80-c297-11ea-94d2-160200065753.png">
 
 Feel free to close the Welcome Tab now. 
 
@@ -26,7 +26,7 @@ print( "Hello, Themyscira!" )
 
 To have the Python follow your commands, press the green Play Button in the upper right corner. You should see a message from the Python below!
 
-<img width="960" alt="buzzfeedtextplay" src="https://user-images.githubusercontent.com/12758612/86024878-636c2280-b9e2-11ea-8d5f-3e8c3997882a.png">
+<img width="958" alt="quizprintmysica" src="https://user-images.githubusercontent.com/12758612/87182261-a9ee3680-c298-11ea-9e5e-83fe9cba3a87.png">
 
 # Basics
 
@@ -43,7 +43,7 @@ Try adding the following to your file:
 ```
 Press the Play Button, and you should see the same behavior as before.
 
-<img width="960" alt="buzzcomment" src="https://user-images.githubusercontent.com/12758612/86058450-c5924b00-ba15-11ea-96fd-22ca05be4386.png">
+<img width="960" alt="quizprintcomment" src="https://user-images.githubusercontent.com/12758612/87182464-07828300-c299-11ea-8243-bae8f7c901b4.png">
  
 ## Variables
 If you want the Python to remember something, you can command it to “write it down” using a variable. 
@@ -63,12 +63,11 @@ print( f"The year is {year}..." )
 ```
 Press the Play Button, and you should see the year print out!
 
-<img width="959" alt="buzzyear1" src="https://user-images.githubusercontent.com/12758612/86060043-d1334100-ba18-11ea-8493-4c3f4c65548c.png">
+<img width="960" alt="quizyear1" src="https://user-images.githubusercontent.com/12758612/87184110-449c4480-c29c-11ea-8df1-c68452776388.png">
  
 We can update the value of a variable using the same assignment (= sign) operator. The Python will figure out the right hand side before storing it in the variable. Since year already has a value, this command will ask the Python to first substitute the current value of year (which is 1984), add 36 to it, then store that value in the variable year. This effectively “overwrites” the value that was written down originally. Try it out by replacing the commands in your file with the following.
 ```python
 # use a variable named year to “remember” the value 1984
-# the phrase "Wonder Woman"
 year = 1984
         
 # print a message to see what year it is
@@ -81,7 +80,7 @@ print( f"The year is now {year}..." )
 ```
 Press the Play Button, and you should see the years print out!
 
-<img width="959" alt="buzzyear2" src="https://user-images.githubusercontent.com/12758612/86060171-10fa2880-ba19-11ea-88aa-87cb4b543149.png">
+<img width="960" alt="quizyear2" src="https://user-images.githubusercontent.com/12758612/87184499-f471b200-c29c-11ea-8054-920ed9f8febf.png">
  
 ## Conditionals
 The Python can perform commands depending on some condition. We’re used to conditionals in the real world: “if you’ve been lassoed, you must tell the truth.” The keyword here is if, which is followed by a condition, where we check whether or not the lasso of truth is around you. When the condition is met (thanks a lot, Wonder Woman!), the subsequent command must be followed (the whole truth and nothing but the truth…). The Python only expects a condition can either be met or not, be true or false. 
@@ -129,7 +128,7 @@ if year == 2020:
 ```
 Press the Play Button, and you should see the state-of-the-art in messaging.
 
-<img width="960" alt="buzzif" src="https://user-images.githubusercontent.com/12758612/86061354-7fd88100-ba1b-11ea-8924-628bef524305.png">
+<img width="960" alt="quizif" src="https://user-images.githubusercontent.com/12758612/87185607-ea50b300-c29e-11ea-9179-10408fae8568.png">
 
 ### Booleans (extra)
 The Python puts a special meaning on the words True and False, and calls them “boolean” values. It turns out that booleans are studied in computer science (and philosophy!) and there is an entire subject called “boolean logic.” You might be comfortable with “arithmetic,” where numbers are operated on to produce other numbers; 1 + 2 is 3. The operands are the numbers 1 and 2, and the operator is the addition operator.  In boolean logic, boolean values (True or False) are operated on to produce other boolean values. We might say, “if it is cold outside AND it is raining, grab a parka.” Then both conditions must be met (must be True) for us to grab a parka. Here the operands are whether or not it is cold outside and whether or not it is raining; the AND operator
