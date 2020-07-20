@@ -2,7 +2,7 @@
 
 # Where will this journey take you? Diana’s note continues… 
 
-The Python can simulate certain parts of the future under the right circumstances! Follow these instructions and see if you can discover the hidden location and meeting time, knowing the truth behind the cryptic note!
+The Python can simulate certain parts of the future under the right circumstances. Follow these instructions and see if you can discover the hidden location and meeting time, knowing the truth behind the cryptic note.
 
 Copy the following below your decryption code:
 ```python
@@ -34,11 +34,11 @@ else:
     print( "What are you doing having a latte and a scone when you're supposed to be at the easter egg location?!")
 ```
 
-Press the Play Button, and use the clues in the cryptic note to answer the questions. Click the TERMINAL area at the bottom and type the letter for your response, then hit return. Answer all the questions to glimpse your future! Did you save the day?
+Press the Play Button, and use the clues in the cryptic note to answer the questions. Click the TERMINAL area at the bottom and type the letter for your response, then hit return. Answer all the questions to glimpse your future. Did you save the day?
 
 <img width="957" alt="messagequiz" src="https://user-images.githubusercontent.com/12758612/85894863-61b81a00-b7aa-11ea-8f3c-19e9732cff9d.png">
 
 
-Check your work with the completed code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/decrypt.py){:target="_blank"}!
+Check your work with the completed code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/decrypt.py){:target="_blank"}.
 
 **Credits**: Special thanks to [Audrey St. John from Mount Holyoke College](https://www.mtholyoke.edu/people/audrey-stjohn) for this lesson!
