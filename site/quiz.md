@@ -1,12 +1,14 @@
-# The (Computer) Science Behind Wonder Woman’s Personality Quiz
+# Wonder Woman 1984: Program your own personality quiz
+
+## The (computer) science behind Wonder Woman’s personality quiz
 Have you ever taken a personality quiz? You answer a series of multiple choice questions and find out things like... "What type of emoji are you?"
 
-Well, let's help make a new personality quiz for Wonder Woman 1984: ***What Wonder Woman Character are you?***
+Well, let's help make a new personality quiz for Wonder Woman 1984: ***Which Wonder Woman Character are you?***
 
 *No prior background in computer science or Python is assumed.*
 
 ## Let's get started
-Don't worry! You won't be making this personality quiz on your own! We'll use the powers of Visual Studio Code and Python to build the quiz!
+Don’t worry. You won’t be making this personality quiz on your own. We’ll use the powers of Visual Studio Code and Python to build the quiz.
 
 | Windows| Mac | Linux |
 | :---: | :---: | :---: |
@@ -14,7 +16,7 @@ Don't worry! You won't be making this personality quiz on your own! We'll use th
 | [**Windows instructions**](quiz/setup_win.md) | [**Mac instructions**](quiz/setup_mac.md) | [**Linux instructions**](quiz/setup_linux.md) |
 
 
-If you already have Visual Studio Code and Python setup then, you can skip ahead to the next step.
+If you already have Visual Studio Code and Python set up then, you can skip ahead to the next step.
 
 ### [**Skip setup**](quiz/basics.md)
 

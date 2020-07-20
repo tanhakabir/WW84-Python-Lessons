@@ -1,6 +1,6 @@
-# Okay, now let’s make that Personality Quiz! 
+# Okay, now let’s make that personality quiz
 
-We’ll be asking a streamlined version of this quiz. We’ll use just 5 questions and 2 options for each: 
+We’ll be asking a streamlined version of this quiz. We’ll use just five questions and two options for each: 
 
 Which weapon? (A) Lasso (B) No weapons 
 
@@ -12,7 +12,7 @@ What’s your favorite decade? (A) 1950s (B) 1990s
 
 What’s your favorite big cat? (A) Tiger (B) Cheetah
 
-Hmm, somehow the Python needs to ask the candidate a question. We can command it to do so using the input command; this gives back (returns) the candidate’s answer, which we can store in a variable. Try replacing the commands in your file with the following. (If you’re wondering what the \n is doing, it tells the Python to put in a newline or “hit the return” key.)
+Hmm, somehow the Python needs to ask the candidate a question. We can command it to do so using the input command; this gives back (returns) the candidate’s answer, which we can store in a variable. Try replacing the commands in your file with the following. (If you’re wondering what the \n is doing, it tells the Python to put in a new line or hit the “return” key.)
 ```python
 # ask the candidate a question
 weapon = input( "Which weapon?\n(A) Lasso\n(B) No weapon, thank you\n" )
@@ -20,7 +20,8 @@ weapon = input( "Which weapon?\n(A) Lasso\n(B) No weapon, thank you\n" )
 # print out which weapon they chose
 print( f"You chose {weapon}.")
 ```
-Press the Play Button, and you should see the question print out, along with the options. Click in the TERMINAL area and try typing A then enter to see what happens!
+
+Press the Play button, and you should see the question print out, along with the options. Click in the TERMINAL area and try typing A then “enter” to see what happens.
 
 <img width="960" alt="quizweapon" src="https://user-images.githubusercontent.com/12758612/87186135-d2c5fa00-c29f-11ea-8db7-a0e58bed61d0.png">
  
@@ -34,13 +35,13 @@ For now, let’s assume the candidate understands that they should type the lett
 if weapon == "A":
     print( "Nice choice!" )
 ```
-Press the Play Button and try entering A as your choice. What happens if you enter B instead?
+Press the Play button and try entering A as your choice.  What happens if you enter B instead?
 
 <img width="960" alt="quizweaponAchoice" src="https://user-images.githubusercontent.com/12758612/87186265-0d2f9700-c2a0-11ea-859d-792710623259.png">
  
 ---
 
-Okay, let’s put all our questions in! Replace the commands in your script with the following. For now, we’ll just print out the responses to make sure everything is hooked up correctly.
+Okay, let’s put all our questions in. Replace the commands in your script with the following. For now, we’ll just print out the responses to make sure everything is hooked up correctly.
 ```python
 # ask the candidate a question
 weapon = input( "Which weapon?\n(A) Lasso\n(B) No weapon, thank you\n" )
@@ -60,7 +61,7 @@ animal = input( "What’s your favorite big cat?\n(A) Tiger\n(B) Cheetah\n" )
 # print out their choices
 print( f"You chose {weapon}, then {job}, then {value}, then {decade}, then {animal}.")
 ```
-Press the Play button and make sure your responses are recorded correctly!
+Press the Play button and make sure your responses are recorded correctly.
 
 <img width="960" alt="quizquestions" src="https://user-images.githubusercontent.com/12758612/87186575-9a72eb80-c2a0-11ea-9b13-c3a7cd3649b3.png">
  
@@ -120,7 +121,7 @@ Press the Play button and find out which Wonder Woman personality you’re most 
  
 <img width="960" alt="quizfull" src="https://user-images.githubusercontent.com/12758612/87186738-dc9c2d00-c2a0-11ea-8bb9-fa7ef3c7a5b5.png">
 
-Check your code with the completed quiz code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/quiz.py)!
+Check your code with the completed quiz code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/quiz.py).
 
 ### Credits
 This lesson plan was inspired by and adapted from the “active learning module” developed by Emily Craig and Sarah Robinson while they were part of the MaGE Inclusive Peer Mentorship Program at Mount Holyoke College. 
