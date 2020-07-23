@@ -14,3 +14,9 @@ body {
     background-color: #201327;
     font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
+
+.main-content table th, .main-content table td {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
