@@ -1,6 +1,6 @@
 ---
 layout: home
-banner_image: "/site/images/ww84_edu_00_github_program_quiz.png"
+banner_image: "/site/images/ww84_edu_02_github_program_quiz.png"
 ---
 
 # Wonder Woman 1984: Program your own personality quiz
