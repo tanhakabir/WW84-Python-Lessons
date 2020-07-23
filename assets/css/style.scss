@@ -32,6 +32,10 @@ h3 a, h2 a {
     background-color: #3c2747;
 }
 
+.main-content pre {
+    border: solid 1px black;
+}
+
 .highlight .kv, .highlight .o {
     color: #cbbfcf;
 }
@@ -62,4 +66,8 @@ h3 a, h2 a {
 
 .highlight .se {
     color: #ff104c;
+}
+
+.highlight {
+    background-color: black;
 }
