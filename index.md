@@ -2,7 +2,6 @@
 layout: home
 banner_image: "/site/images/ww84_edu_00_github_lp.png"
 ---
-![WONDER WOMAN 1984](site/images/ww84_edu_00_github_lp.png)
 
 # Learn the Wonder of Programming
 

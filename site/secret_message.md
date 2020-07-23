@@ -1,4 +1,7 @@
-![WONDER WOMAN 1984 Learn-To-Code](images/ww84_edu_00_github_decode.png)
+---
+layout: home
+banner_image: "/site/images/ww84_edu_00_github_decode.png"
+---
 
 # Wonder Woman 1984: Decode a secret message
 
