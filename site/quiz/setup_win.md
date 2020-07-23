@@ -9,7 +9,7 @@ banner_image: "/site/images/ww84_edu_02_github_program_quiz.png"
 
 Let's get and set up Visual Studio Code and Python first. If you already have these set up, you can skip ahead!
 
-### [**Skip ahead**](basics.md)
+### [Skip ahead >](basics.md)
 
 ---
 
@@ -35,4 +35,4 @@ Once they're both finished downloading, open up Visual Studio Code. We need to g
 
 Now that we have everything installed, we can start commanding Python!
 
-### [**Next step**](basics.md)
+### [Next step >](basics.md)

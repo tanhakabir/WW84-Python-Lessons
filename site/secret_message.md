@@ -34,4 +34,4 @@ First, you’ll need a way to command the enchanted Python. Luckily, my team has
 
 If you already have Visual Studio Code and Python set up, then you can skip ahead to the next step.
 
-### [**Skip setup**](secret_message/basics.md)
+### [Skip setup >](secret_message/basics.md)

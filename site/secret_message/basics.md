@@ -38,7 +38,7 @@ To have the Python follow your commands, press the green Play button in the uppe
 
 Before you can uncover the true meaning of the note, let’s walk you through the basics for commanding the Python. If you already know how to use variables, functions, and conditionals, you can skip to the next part.
 
-### [**Skip basics**](cracking.md)
+### [Skip basics >](cracking.md)
 
 ## Comments
 First, we can write comments to ourselves that the Python will ignore. On any line where we use the `#` symbol, the Python ignores everything after.
@@ -100,4 +100,4 @@ Press the Play Button, and you should see a chant.
 
 Great! Now that you know the basics, let's get to decrypting the note.
 
-### [**Next step**](cracking.md)
+### [Next step >](cracking.md)

@@ -39,7 +39,7 @@ To have the Python follow your commands, press the green Play button in the uppe
 
 Before you dive into the full personality quiz, let’s walk you through the basics for commanding the Python. If you already know how to use variables, functions, and conditionals, you can skip to the next part.
 
-### [**Skip basics**](quiz.md)
+### [Skip basics >](quiz.md)
 
 ## Comments
 First, we can write comments to ourselves that the Python will ignore. On any line where we use the # symbol, the Python ignores everything after.
@@ -145,4 +145,4 @@ The Python puts a special meaning on the words “true” and “false,” and c
 
 Now that we have the handle on some of the basics, let’s move on to making the quiz.
 
-### [**Next step**](quiz.md)
+### [Next step >](quiz.md)

@@ -23,6 +23,6 @@ Don’t worry. You won’t be making this personality quiz on your own. We’ll 
 
 If you already have Visual Studio Code and Python set up then, you can skip ahead to the next step.
 
-### [**Skip setup**](quiz/basics.md)
+### [Skip setup >](quiz/basics.md)
 
 
