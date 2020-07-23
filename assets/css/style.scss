@@ -11,7 +11,8 @@ $code-text-color: white !default;
 @import "{{ site.theme }}";
 
 body {
-    background-color: #201327;
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(32,19,39,1) 90%);
     font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
