@@ -1,14 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-body {
-    background-color: black;
-    color: white;
-    font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;
-}
-
 pre {
     background: rgba(0, 0, 0, 0.9);
     border: 1px solid rgba(255, 255, 255, 0.15);
@@ -19,13 +11,21 @@ pre {
     word-wrap: normal;
     overflow: auto;
     overflow-y: hidden;
-  }
+}
   
-  code.highlighter-rouge {
+code.highlighter-rouge {
     background: rgba(0,0,0,0.9);
     border: 1px solid rgba(255, 255, 255, 0.15);
     padding: 0px 3px;
     margin: 0px -3px;
     color: #aa759f;
     border-radius: 2px;
-  }
+}
+
+@import "{{ site.theme }}";
+
+body {
+    background-color: black;
+    color: white;
+    font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
