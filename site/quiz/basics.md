@@ -1,3 +1,10 @@
+---
+layout: home
+banner_image: "/site/images/ww84_edu_02_github_program_quiz.png"
+---
+
+# Wonder Woman 1984: Program your own personality quiz
+
 Let’s start by creating a folder on your computer where you can find easily it. Call it “wonder-woman”—I created mine in my Documents folder.
 
 _**Note:** If you already followed the previous lesson where you decoded a secret message, you can use the same folder as before._
@@ -28,7 +35,7 @@ To have the Python follow your commands, press the green Play button in the uppe
 
 <img width="958" alt="quizprintmysica" src="https://user-images.githubusercontent.com/12758612/87182261-a9ee3680-c298-11ea-9e5e-83fe9cba3a87.png">
 
-# Basics
+## Basics
 
 Before you dive into the full personality quiz, let’s walk you through the basics for commanding the Python. If you already know how to use variables, functions, and conditionals, you can skip to the next part.
 
