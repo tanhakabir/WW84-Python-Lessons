@@ -1,5 +1,6 @@
 ---
 layout: home
+header: ![Home](site/images/ww84_edu_00_github_lp.png)
 ---
 ![Home](site/images/ww84_edu_00_github_lp.png)
 
