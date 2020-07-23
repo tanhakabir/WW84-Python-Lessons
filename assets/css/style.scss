@@ -21,8 +21,12 @@ body {
     border: 1px solid black;
 }
 
-h3 a {
+h3 a, h2 a {
     background-color: #df0571;
     color: white;
     padding: 8px 15px;
+}
+
+.main-content hr {
+    background-color: #3c2747;
 }
