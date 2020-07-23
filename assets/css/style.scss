@@ -1,8 +1,17 @@
 ---
 ---
+$code-bg-color: #323232 !default;
+$code-text-color: #f3f6fa !default;
 
 @import "{{ site.theme }}";
 
 body {
+    background-color: #201327;
     font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;
+    color: white;
+}
+
+.main-content pre {
+    background-color: #323232;
+    border: solid 1px black;
 }
