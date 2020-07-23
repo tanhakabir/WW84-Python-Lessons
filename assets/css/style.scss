@@ -3,10 +3,10 @@
 $section-headings-color: #ffffff !default;
 $body-text-color: #cfd9dd !default;
 $body-link-color: #df0571 !default;
-$blockquote-text-color: #abc0c9 !default;
+$blockquote-text-color: #cbbfcf !default;
 
 $code-bg-color: #3c2747 !default;
-$code-text-color: #f3f6fa !default;
+$code-text-color: #ebddf1 !default;
 
 @import "{{ site.theme }}";
 
@@ -29,4 +29,8 @@ h3 a, h2 a {
 
 .main-content hr {
     background-color: #3c2747;
+}
+
+.highlight .k, .highlight .kv {
+    color: white;
 }
