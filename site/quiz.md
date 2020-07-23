@@ -1,3 +1,5 @@
+![WONDER WOMAN 1984 Learn-To-Code](images/ww84_edu_00_github_program_quiz.png)
+
 # Wonder Woman 1984: Program your own personality quiz
 
 ## The (computer) science behind Wonder Woman’s personality quiz
