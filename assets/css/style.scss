@@ -6,7 +6,7 @@ $body-link-color: #df0571 !default;
 $blockquote-text-color: #cbbfcf !default;
 
 $code-bg-color: #3c2747 !default;
-$code-text-color: #ebddf1 !default;
+$code-text-color: white !default;
 
 @import "{{ site.theme }}";
 
@@ -32,10 +32,10 @@ h3 a, h2 a {
 }
 
 .highlight .kv, .highlight .o {
-    color: white;
+    color: #cbbfcf;
 }
 
-.highlight .k, .highlight .k {
+.highlight .k, .highlight .ow {
     color: #ae52e0;
 }
 
