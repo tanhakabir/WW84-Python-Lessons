@@ -5,6 +5,8 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 # Wonder Woman 1984: Decode a secret message
 
+---
+
 Let’s start by creating a folder on your computer where you can find easily it. Call it “wonder-woman”—I created mine in my Documents folder.
 
 <img width="590" alt="folderdocu" src="https://user-images.githubusercontent.com/12758612/84749733-372abd80-af6f-11ea-93ad-5e8876e980d5.png">

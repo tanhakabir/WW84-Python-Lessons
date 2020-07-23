@@ -5,6 +5,8 @@ banner_image: "/site/images/ww84_edu_02_github_program_quiz.png"
 
 # Wonder Woman 1984: Program your own personality quiz
 
+---
+
 ## Setting up Visual Studio Code and Python for Mac
 
 Let's get and set up Visual Studio Code and Python first. If you already have these set up, you can skip ahead!

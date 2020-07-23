@@ -5,6 +5,8 @@ banner_image: "/site/images/ww84_edu_02_github_program_quiz.png"
 
 # Wonder Woman 1984: Program your own personality quiz
 
+---
+
 Let’s start by creating a folder on your computer where you can find easily it. Call it “wonder-woman”—I created mine in my Documents folder.
 
 _**Note:** If you already followed the previous lesson where you decoded a secret message, you can use the same folder as before._

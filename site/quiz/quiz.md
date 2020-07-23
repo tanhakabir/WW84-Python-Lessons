@@ -5,6 +5,8 @@ banner_image: "/site/images/ww84_edu_02_github_program_quiz.png"
 
 # Wonder Woman 1984: Program your own personality quiz
 
+--- 
+
 ## Okay, now let’s make that personality quiz
 
 We’ll be asking a streamlined version of this quiz. We’ll use just five questions and two options for each: 

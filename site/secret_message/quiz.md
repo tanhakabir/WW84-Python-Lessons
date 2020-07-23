@@ -5,6 +5,8 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 # Wonder Woman 1984: Decode a secret message
 
+---
+
 <img width="576" alt="encryptedmessage" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
 
 ## Where will this journey take you? Diana’s note continues… 
