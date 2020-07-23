@@ -1,6 +1,11 @@
 ---
 ---
-$code-bg-color: #323232 !default;
+$section-headings-color: #ffffff !default;
+$body-text-color: #cfd9dd !default;
+$body-link-color: #ffffff !default;
+$blockquote-text-color: #abc0c9 !default;
+
+$code-bg-color: #3c2747 !default;
 $code-text-color: #f3f6fa !default;
 
 @import "{{ site.theme }}";
@@ -8,7 +13,6 @@ $code-text-color: #f3f6fa !default;
 body {
     background-color: #201327;
     font-family: Segoe UI,SegoeUI,Helvetica Neue,Helvetica,Arial,sans-serif;
-    color: white;
 }
 
 .main-content pre {
