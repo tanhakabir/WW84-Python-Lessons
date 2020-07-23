@@ -1,8 +1,4 @@
----
-layout: home
-header: ![Home](site/images/ww84_edu_00_github_lp.png)
----
-![Home](site/images/ww84_edu_00_github_lp.png)
+![WONDER WOMAN 1984](site/images/ww84_edu_00_github_lp.png)
 
 # Learn the Wonder of Programming
 
