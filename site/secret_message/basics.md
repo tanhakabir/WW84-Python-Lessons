@@ -1,3 +1,9 @@
+---
+layout: home
+banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
+---
+
+# Wonder Woman 1984: Decode a secret message
 
 Let’s start by creating a folder on your computer where you can find easily it. Call it “wonder-woman”—I created mine in my Documents folder.
 
@@ -28,7 +34,7 @@ To have the Python follow your commands, press the green Play button in the uppe
 
 <img width="768" alt="printresult" src="https://user-images.githubusercontent.com/12758612/85450248-6fbd2f00-b54d-11ea-9b24-3692e6aa97ac.png">
 
-# Basics
+## Basics
 
 Before you can uncover the true meaning of the note, let’s walk you through the basics for commanding the Python. If you already know how to use variables, functions, and conditionals, you can skip to the next part.
 

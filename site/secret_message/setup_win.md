@@ -1,4 +1,11 @@
-# Setting up Visual Studio Code and Python for Windows
+---
+layout: home
+banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
+---
+
+# Wonder Woman 1984: Decode a secret message
+
+## Setting up Visual Studio Code and Python for Windows
 
 Let's get and set up Visual Studio Code and Python first. If you already have these set up, you can skip ahead!
 

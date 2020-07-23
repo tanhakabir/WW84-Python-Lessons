@@ -1,6 +1,13 @@
+---
+layout: home
+banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
+---
+
+# Wonder Woman 1984: Decode a secret message
+
 <img width="576" alt="encryptedmessage" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
 
-# Okay, time to get cracking
+## Okay, time to get cracking
 
 I think the message might be encrypted with something called a “Caesar cipher,” where all the letters are shifted in the alphabet by some amount. I’ll need you to give the Python its own Golden Lasso superpower for finding the true meaning of the words "WHY", “oskza”, “ohupo”, and "ED".
 
@@ -48,7 +55,7 @@ Press the Play Button, and you should see the truth revealed for "terra"!
 
 <img width="958" alt="terra" src="https://user-images.githubusercontent.com/12758612/85451214-80ba7000-b54e-11ea-80c2-366bb144df7a.png">
  
-# Now… command the Python to use its new superpower to reveal the truth
+## Now… command the Python to use its new superpower to reveal the truth
 Modify the commands in your file to reveal the truth behind:
 1.	the word “WHY” shifted by 13,
 2.	the word “oskza” shifted by -18,
