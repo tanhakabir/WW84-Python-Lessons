@@ -64,4 +64,4 @@ Modify the commands in your file to reveal the truth behind:
 
 Press the Play Button, and you should see the final clue to the true meeting place and time revealed.
 
-[**Let's see if we found easter egg!**](quiz.md)
+### [**Let's see if we found easter egg!**](quiz.md)
