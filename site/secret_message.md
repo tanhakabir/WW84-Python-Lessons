@@ -3,7 +3,7 @@ layout: home
 banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 ---
 
-# Wonder Woman 1984: Decode a secret message
+# **Wonder Woman 1984: Decode a secret message**
 
 There’s a secret message encoded with the location to a Wonder Woman 1984 Easter Egg. Crack the code using Python programming language and find it in this lesson. For optimal experience, download Visual Studio Code.
 

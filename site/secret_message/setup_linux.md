@@ -3,7 +3,7 @@ layout: home
 banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 ---
 
-# Wonder Woman 1984: Decode a secret message
+# **Wonder Woman 1984: Decode a secret message**
 
 ---
 
