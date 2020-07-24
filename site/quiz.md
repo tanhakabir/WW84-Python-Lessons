@@ -17,7 +17,7 @@ Don’t worry. You won’t be making this personality quiz on your own. We’ll 
 
 | Windows| Mac | Linux |
 | :---: | :---: | :---: |
-| ![windows](https://user-images.githubusercontent.com/12758612/85619458-2e915180-b617-11ea-8028-94796c46198b.jpg) | <img width="83" alt="1200px-Apple_logo_black svg" src="https://user-images.githubusercontent.com/12758612/85620235-57fead00-b618-11ea-8d1e-6b305241c724.png"> | <img alt="Linux-logo" src="https://user-images.githubusercontent.com/12758612/85620609-e07d4d80-b618-11ea-99f2-dfeb1c717dd3.png"> |
+| ![Windows-Logo](https://user-images.githubusercontent.com/12758612/88350041-b47fe580-cd06-11ea-818a-3496da40f31d.png) | <img width="83" alt="1200px-Apple_logo_black svg" src="https://user-images.githubusercontent.com/12758612/85620235-57fead00-b618-11ea-8d1e-6b305241c724.png"> | <img alt="Linux-logo" src="https://user-images.githubusercontent.com/12758612/85620609-e07d4d80-b618-11ea-99f2-dfeb1c717dd3.png"> |
 | [**Windows instructions**](quiz/setup_win.md) | [**Mac instructions**](quiz/setup_mac.md) | [**Linux instructions**](quiz/setup_linux.md) |
 
 
