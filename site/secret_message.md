@@ -28,7 +28,8 @@ First, you’ll need a way to command the enchanted Python. Luckily, my team has
 
 | Windows| Mac | Linux |
 | :---: | :---: | :---: |
-| ![Windows-Logo](https://user-images.githubusercontent.com/12758612/88350041-b47fe580-cd06-11ea-818a-3496da40f31d.png) | <img width="83" alt="1200px-Apple_logo_black svg" src="https://user-images.githubusercontent.com/12758612/85620235-57fead00-b618-11ea-8d1e-6b305241c724.png"> | <img alt="Linux-logo" src="https://user-images.githubusercontent.com/12758612/85620609-e07d4d80-b618-11ea-99f2-dfeb1c717dd3.png"> |
+| ![Windows-Logo](https://user-images.githubusercontent.com/12758612/88350041-b47fe580-cd06-11ea-818a-3496da40f31d.png) | ![Apple-Logo](https://user-images.githubusercontent.com/12758612/88350531-3a506080-cd08-11ea-8ce2-1813cf146478.png)
+ | ![Linux-logo](https://user-images.githubusercontent.com/12758612/88350602-7257a380-cd08-11ea-941f-af28638d88f8.png) |
 | [**Windows instructions**](secret_message/setup_win.md) | [**Mac instructions**](secret_message/setup_mac.md) | [**Linux instructions**](secret_message/setup_linux.md) |
 
 
