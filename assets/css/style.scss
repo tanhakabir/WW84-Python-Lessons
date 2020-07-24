@@ -10,6 +10,10 @@ $code-text-color: white !default;
 
 @import "{{ site.theme }}";
 
+html {
+    background: black;
+}
+
 body {
     background: rgb(2,0,36);
     background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(32,19,39,1) 90%);
