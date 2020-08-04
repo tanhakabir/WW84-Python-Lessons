@@ -15,7 +15,7 @@ Let's get and set up Visual Studio Code and Python first. If you already have th
 
 ---
 
-You can download Visual Studio Code here: [code.visualstudio.com/Download](https://code.visualstudio.com/Download). Choose the Windows version:
+You can download Visual Studio Code here: [code.visualstudio.com/Download](https://code.visualstudio.com/Download){:target="_blank"}. Choose the Windows version:
 
 <img width="219" alt="vsdlwin" src="https://user-images.githubusercontent.com/12758612/85624083-33a5cf00-b61e-11ea-83c2-16bfc95a3e21.png">
 
@@ -23,7 +23,7 @@ When installing Visual Studio Code, accept the terms and conditions and use the 
 
 ---
 
-Let's also download the powerful Python here: [www.python.org/downloads/](https://www.python.org/downloads/) **Important!** Be sure when installing Python to make sure you Add Python 3.8 to PATH!
+Let's also download the powerful Python here: [www.python.org/downloads/](https://www.python.org/downloads/){:target="_blank"} **Important!** Be sure when installing Python to make sure you Add Python 3.8 to PATH!
 
 <img width="443" alt="openflder" src="https://user-images.githubusercontent.com/12758612/84756731-08651500-af78-11ea-9fe1-0df133fc66a5.png">
 

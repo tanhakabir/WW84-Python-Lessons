@@ -15,7 +15,7 @@ Let's get and set up Visual Studio Code and Python first. If you already have th
 
 ---
 
-You can download Visual Studio Code here: [code.visualstudio.com/Download](https://code.visualstudio.com/Download). Choose the Linux version the fits your type of Linux:
+You can download Visual Studio Code here: [code.visualstudio.com/Download](https://code.visualstudio.com/Download){:target="_blank"}. Choose the Linux version the fits your type of Linux:
 
 <img width="263" alt="vsdllinx" src="https://user-images.githubusercontent.com/12758612/86159538-5b35e500-babf-11ea-8c83-55ce0dfa5a04.png">
 
@@ -23,7 +23,7 @@ When installing Visual Studio Code, accept the terms and conditions and use the 
 
 ---
 
-Let's also download the powerful Python here: [www.python.org/downloads/](https://www.python.org/downloads/)
+Let's also download the powerful Python here: [www.python.org/downloads/](https://www.python.org/downloads/){:target="_blank"}
 
 <img width="443" alt="openflder" src="https://user-images.githubusercontent.com/12758612/84756731-08651500-af78-11ea-9fe1-0df133fc66a5.png">
 
