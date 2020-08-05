@@ -5,7 +5,7 @@ banner_image: "/site/images/ww84_edu_00_github_lp.png"
 
 # **Learn the Wonder of Programming**
 
-The world needs creators, coders, leaders, and heroes now more than ever. With your skills and our technology, we can restore balance to the world and inspire new possibilities. 
+The world needs creators, coders, leaders, and heroes now more than ever. 
 
  
 
