@@ -133,4 +133,11 @@ Press the Play button and find out which Wonder Woman personality you’re most 
 Check your code with the completed quiz code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/quiz.py){:target="_blank"}.
 
 ### Credits
-Special thanks to [Audrey St. John from Mount Holyoke College](https://www.mtholyoke.edu/people/audrey-stjohn) for this lesson, which was inspired by and adapted from the “active learning module” developed by Emily Craig and Sarah Robinson for the [MaGE](https://sites.google.com/a/mtholyoke.edu/mage/) inclusive peer mentoring program at Mount Holyoke College.
+Special thanks to [Audrey St. John from Mount Holyoke College](https://www.mtholyoke.edu/people/audrey-stjohn){:target="_blank"} for this lesson, which was inspired by and adapted from the “active learning module” developed by Emily Craig and Sarah Robinson for the [MaGE](https://sites.google.com/a/mtholyoke.edu/mage/){:target="_blank"} inclusive peer mentoring program at Mount Holyoke College.
+
+
+## Let us know how we can make this lesson better
+
+We would love to hear from you in this 3 minute survey.
+
+### [Open survey >](https://www.research.net/r/2DCM2MY){:target="_blank"}
