@@ -52,6 +52,7 @@ Check your work with the completed code [**here**](https://github.com/microsoft/
 
 **Credits**: Special thanks to [Audrey St. John from Mount Holyoke College](https://www.mtholyoke.edu/people/audrey-stjohn){:target="_blank"} for this lesson!
 
+## Let us know how we can make this lesson better
 
 We would love to hear from you in this 3 minute survey.
 
