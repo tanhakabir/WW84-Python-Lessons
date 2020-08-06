@@ -8,7 +8,7 @@ job = input( "What’s your dream job?\n(A) Curator at the Smithsonian\n(B) Runn
 value = input( "What’s more important?\n(A) Money\n(B) Love\n" )
 
 # ask the candidate a fourth question
-decade = input( "What’s your favorite decade?\n(A) 1950s\n(B) 1990s\n" )
+decade = input( "What’s your favorite decade?\n(A) 1910s\n(B) 1980s\n" )
 
 # ask the candidate a fifth question
 animal = input( "What’s your favorite big cat?\n(A) Tiger\n(B) Cheetah\n" )
