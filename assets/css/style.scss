@@ -21,8 +21,8 @@ body {
 }
 
 iframe {
-    max-width: 100vw;
-    max-height: 56.25vw; /* height/width ratio = 315/560 = .5625 */
+    width: 100vw;
+    height: 56.25vw; /* height/width ratio = 315/560 = .5625 */
 }
 
 .main-content table th, .main-content table td {
