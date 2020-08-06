@@ -77,7 +77,7 @@ print( f"You chose {weapon}, then {job}, then {value}, then {decade}, then {anim
 ```
 Press the Play button and make sure your responses are recorded correctly.
 
-<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/87186575-9a72eb80-c2a0-11ea-9b13-c3a7cd3649b3.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89483239-67613200-d750-11ea-8bdf-64274450f71b.png">
  
 Now it’s time to really score the quiz. With five questions and different choices, we’ll use some variables to guide our response. Add the following commands to your file.
 ```python
