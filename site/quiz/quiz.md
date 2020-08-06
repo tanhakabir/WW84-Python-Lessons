@@ -80,19 +80,19 @@ Now it’s time to really score the quiz. With five questions and different choi
 diana_like = 0
 trevor_like = 0
 max_like = 0
-cheetah_like = 0
+barbara_like = 0
 
 # update scoring variables based on the weapon choice
 if weapon == "A":
     diana_like = diana_like + 1
-    cheetah_like = cheetah_like - 1
+    barbara_like = barbara_like - 1
 if weapon == "B":
     pass
 
 # update scoring variables based on the job choice
 if job == "A":
     diana_like = diana_like + 2
-    cheetah_like = cheetah_like + 2
+    barbara_like = barbara_like + 2
 if job == "B":
     max_like = max_like + 2
 
@@ -114,15 +114,15 @@ if decade == "B":
 if animal == "A":
     pass
 if animal == "B":
-    cheetah_like = cheetah_like + 2
+    barbara_like = barbara_like + 2
 
 # print the results depending on the score
 if diana_like >= 3:
     print( "Hello, Wonder Woman!" )
 elif trevor_like >= 3:
     print( "Hello, Steve Trevor!" )
-elif cheetah_like >= 3:
-    print( "Hello, Cheetah!")
+elif barbara_like >= 3:
+    print( "Hello, Barbara Minerva!")
 else:
     print( "Hello, Max Lord!")
 ```
