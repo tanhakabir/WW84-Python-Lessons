@@ -133,7 +133,7 @@ else:
 ```
 Press the Play button and find out which Wonder Woman personality you’re most like!
  
-<img width="960" alt="quizfull" src="https://user-images.githubusercontent.com/12758612/87186738-dc9c2d00-c2a0-11ea-8bb9-fa7ef3c7a5b5.png">
+<img width="960" src="https://user-images.githubusercontent.com/12758612/89481092-d720ee00-d74b-11ea-818f-0d9046457fb3.png">
 
 Check your code with the completed quiz code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/quiz.py){:target="_blank"}.
 
