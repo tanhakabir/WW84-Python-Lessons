@@ -11,17 +11,17 @@ Let’s start by creating a folder on your computer where you can find easily it
 
 _**Note:** If you already followed the previous lesson where you decoded a secret message, you can use the same folder as before._
 
-<img width="590" alt="folderdocu" src="https://user-images.githubusercontent.com/12758612/84749733-372abd80-af6f-11ea-93ad-5e8876e980d5.png">
+<img width="590" src="https://user-images.githubusercontent.com/12758612/84749733-372abd80-af6f-11ea-93ad-5e8876e980d5.png">
 
 Then open Visual Studio Code and select "Open folder..." from the start screen; open your wonder-woman folder.
 
-<img width="393" alt="openflder" src="https://user-images.githubusercontent.com/12758612/84750307-f5e6dd80-af6f-11ea-8001-741dd19422d2.png">
+<img width="393" src="https://user-images.githubusercontent.com/12758612/84750307-f5e6dd80-af6f-11ea-8001-741dd19422d2.png">
 
 ---
 
 Let's create a file called "quiz.py".
 
-<img width="379" alt="newfilequiz" src="https://user-images.githubusercontent.com/12758612/87181544-5d562b80-c297-11ea-94d2-160200065753.png">
+<img width="379" src="https://user-images.githubusercontent.com/12758612/87181544-5d562b80-c297-11ea-94d2-160200065753.png">
 
 Feel free to close the Welcome tab now.
 
@@ -35,7 +35,7 @@ print( "Hello, Themyscira!" )
 
 To have the Python follow your commands, press the green Play button in the upper right corner. You should see a message from the Python below.
 
-<img width="958" alt="quizprintmysica" src="https://user-images.githubusercontent.com/12758612/87182261-a9ee3680-c298-11ea-9e5e-83fe9cba3a87.png">
+<img width="958" src="https://user-images.githubusercontent.com/12758612/87182261-a9ee3680-c298-11ea-9e5e-83fe9cba3a87.png">
 
 ## Basics
 
@@ -52,7 +52,7 @@ Try adding the following to your file:
 ```
 Press the Play button, and you should see the same behavior as before.
 
-<img width="960" alt="quizprintcomment" src="https://user-images.githubusercontent.com/12758612/87182464-07828300-c299-11ea-8243-bae8f7c901b4.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/87182464-07828300-c299-11ea-8243-bae8f7c901b4.png">
  
 ## Variables
 If you want the Python to remember something, you can command it to “write it down” using a variable. 
@@ -72,7 +72,7 @@ print( f"The year is {year}..." )
 ```
 Press the Play Button, and you should see the year print out.
 
-<img width="960" alt="quizyear1" src="https://user-images.githubusercontent.com/12758612/87184110-449c4480-c29c-11ea-8df1-c68452776388.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/87184110-449c4480-c29c-11ea-8df1-c68452776388.png">
 
 We can update the value of a variable using the same assignment (= sign) operator. The Python will figure out the right-hand side before storing it in the variable. Since “year” already has a value, this command will ask the Python to first substitute the current value of “year” (which is 1984), add 36 to it, then store that value in the variable “year”. This effectively overwrites the value that was written down originally. Try it out by replacing the commands in your file with the following.
 ```python
@@ -89,7 +89,7 @@ print( f"The year is now {year}..." )
 ```
 Press the Play Button, and you should see the years print out.
 
-<img width="960" alt="quizyear2" src="https://user-images.githubusercontent.com/12758612/87184499-f471b200-c29c-11ea-8054-920ed9f8febf.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/87184499-f471b200-c29c-11ea-8054-920ed9f8febf.png">
  
 ## Conditionals
 The Python can perform commands depending on some condition. We’re used to conditionals in the real world: “If you’ve been lassoed, then you must tell the truth.” The keyword here is if, which is followed by a condition, where we check whether or not the lasso of truth is around you. When the condition is met (thanks a lot, Wonder Woman), the subsequent command must be followed (the whole truth and nothing but the truth). The Python only expects a condition to either be met or not—it’s either true or false.
@@ -138,7 +138,7 @@ if year == 2020:
 ```
 Press the Play button, and you should see the state-of-the-art in messaging.
 
-<img width="960" alt="quizif" src="https://user-images.githubusercontent.com/12758612/87185607-ea50b300-c29e-11ea-9179-10408fae8568.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/87185607-ea50b300-c29e-11ea-9179-10408fae8568.png">
 
 ### Booleans (extra)
 The Python puts a special meaning on the words “true” and “false,” and calls them boolean values. It turns out that booleans are studied in computer science (and philosophy) and there is an entire subject called boolean logic. You might be comfortable with arithmetic, where numbers are operated on to produce other numbers; 1 + 2 is 3. The operands are the numbers 1 and 2, and the operator is the addition operator.  In boolean logic, boolean values (True or False) are operated on to produce other boolean values. We might say, “if it is cold outside AND it is raining, grab a parka.” Then both conditions must be met (must be True) for us to grab a parka. Here the operands are whether or not it is cold outside and whether or not it is raining; the AND operator

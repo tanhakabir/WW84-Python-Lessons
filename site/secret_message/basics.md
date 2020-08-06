@@ -9,17 +9,17 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 Let’s start by creating a folder on your computer where you can find easily it. Call it “wonder-woman”—I created mine in my Documents folder.
 
-<img width="590" alt="folderdocu" src="https://user-images.githubusercontent.com/12758612/84749733-372abd80-af6f-11ea-93ad-5e8876e980d5.png">
+<img width="590" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/84749733-372abd80-af6f-11ea-93ad-5e8876e980d5.png">
 
 Then open Visual Studio Code and select "Open folder..." from the start screen; open your wonder-woman folder.
 
-<img width="393" alt="openflder" src="https://user-images.githubusercontent.com/12758612/84750307-f5e6dd80-af6f-11ea-8001-741dd19422d2.png">
+<img width="393" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/84750307-f5e6dd80-af6f-11ea-8001-741dd19422d2.png">
 
 ---
 
 Next create a file called "decrypt.py". 
 
-<img width="450" alt="decrypt" src="https://user-images.githubusercontent.com/12758612/85449971-2ec51a80-b54d-11ea-974b-73f0338ef725.png">
+<img width="450" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/85449971-2ec51a80-b54d-11ea-974b-73f0338ef725.png">
 
 Also feel free to close the Welcome tab now.
 **Note:** As you are coding in Python, Visual Studio Code will suggest other powers to add to Visual Studio Code, such as "Linters". You don't need these for this project, so feel free to ignore them.
@@ -30,11 +30,11 @@ The first thing we’ll do is make sure our command center works. We’ll give a
 print( "Hello, Themyscira!" )
 ```
 
-<img width="769" alt="print" src="https://user-images.githubusercontent.com/12758612/85450157-5ae09b80-b54d-11ea-9583-71f8318581a9.png">
+<img width="769" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/85450157-5ae09b80-b54d-11ea-9583-71f8318581a9.png">
 
 To have the Python follow your commands, press the green Play button in the upper right corner. You should see a message from the Python below.
 
-<img width="768" alt="printresult" src="https://user-images.githubusercontent.com/12758612/85450248-6fbd2f00-b54d-11ea-9b24-3692e6aa97ac.png">
+<img width="768" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/85450248-6fbd2f00-b54d-11ea-9b24-3692e6aa97ac.png">
 
 ## Basics
 
@@ -50,7 +50,7 @@ Try adding the following to your file:
 ```
 Press the Play Button, and you should see the same behavior as before.
 
-<img width="768" alt="comment print" src="https://user-images.githubusercontent.com/12758612/85450509-b01cad00-b54d-11ea-9c3d-96a0a168964e.png">
+<img width="768" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/85450509-b01cad00-b54d-11ea-9c3d-96a0a168964e.png">
  
 ## Variables
 It turns out that the Python has the memory of a goldfish, and we have to explicitly command it to “remember” things. It really likes being part of a secret mission, so we use “codenames” (our team calls these variables) to have it remember certain things. 
@@ -72,7 +72,7 @@ print( "I believe diana is actually " + diana )
 ```
 Press the Play Button, and you should see Diana’s identity revealed.
 
-<img width="764" alt="varname" src="https://user-images.githubusercontent.com/12758612/85450603-ca568b00-b54d-11ea-8278-3d89e7395201.png">
+<img width="764" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/85450603-ca568b00-b54d-11ea-8278-3d89e7395201.png">
  
 ## Functions
 We can give the Python superpowers (which my team calls functions), which can later be invoked. If we need to change the behavior slightly depending on the situation, we can use additional codenames (my team calls these parameters). 
@@ -98,7 +98,7 @@ chant( "Wonder Woman! " )
 ```
 Press the Play Button, and you should see a chant.
 
-<img width="767" alt="chant" src="https://user-images.githubusercontent.com/12758612/85450673-db070100-b54d-11ea-81f4-548cf7bdb17f.png">
+<img width="767" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/85450673-db070100-b54d-11ea-81f4-548cf7bdb17f.png">
 
 Great! Now that you know the basics, let's get to decrypting the note.
 

@@ -37,11 +37,11 @@ print( f"You chose {weapon}.")
 
 Press the Play button, and you should see the question print out, along with the options. Click in the TERMINAL area and try typing A then “enter” to see what happens.
 
-<img width="960" alt="quizweapon" src="https://user-images.githubusercontent.com/12758612/87186135-d2c5fa00-c29f-11ea-8db7-a0e58bed61d0.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/87186135-d2c5fa00-c29f-11ea-8db7-a0e58bed61d0.png">
  
 Notice that the weapon variable simply stores whatever you typed. Try typing lion instead and see what happens…
 
-<img width="330" alt="lion" src="https://user-images.githubusercontent.com/12758612/86166879-64787f00-baca-11ea-9ebd-dcd20a74b182.png">
+<img width="330" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/86166879-64787f00-baca-11ea-9ebd-dcd20a74b182.png">
  
 For now, let’s assume the candidate understands that they should type the letter of their choice (and capitalize it correctly). Then we can use a conditional to have the Python execute commands depending on what they chose. Try adding the following commands to your file:
 ```python
@@ -51,7 +51,7 @@ if weapon == "A":
 ```
 Press the Play button and try entering A as your choice.  What happens if you enter B instead?
 
-<img width="960" alt="quizweaponAchoice" src="https://user-images.githubusercontent.com/12758612/87186265-0d2f9700-c2a0-11ea-859d-792710623259.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/87186265-0d2f9700-c2a0-11ea-859d-792710623259.png">
  
 ---
 
@@ -77,7 +77,7 @@ print( f"You chose {weapon}, then {job}, then {value}, then {decade}, then {anim
 ```
 Press the Play button and make sure your responses are recorded correctly.
 
-<img width="960" alt="quizquestions" src="https://user-images.githubusercontent.com/12758612/87186575-9a72eb80-c2a0-11ea-9b13-c3a7cd3649b3.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/87186575-9a72eb80-c2a0-11ea-9b13-c3a7cd3649b3.png">
  
 Now it’s time to really score the quiz. With five questions and different choices, we’ll use some variables to guide our response. Add the following commands to your file.
 ```python

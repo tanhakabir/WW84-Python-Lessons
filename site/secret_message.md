@@ -15,7 +15,7 @@ For a video walkthrough of this lesson, you can follow along with this:
 
 You find a mystery envelope on the ground with a cryptic note inside...
 
-<img width="576" alt="encryptedmessage" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
+<img width="576" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
 
 On the back of the note, it reads:
 
