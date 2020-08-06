@@ -77,31 +77,31 @@ Press the Play button and make sure your responses are recorded correctly.
 Now it’s time to really score the quiz. With five questions and different choices, we’ll use some variables to guide our response. Add the following commands to your file.
 ```python
 # create some variables for scoring
-diane_like = 0
+diana_like = 0
 trevor_like = 0
 max_like = 0
 cheetah_like = 0
 
 # update scoring variables based on the weapon choice
 if weapon == "A":
-    diane_like = diane_like + 1
+    diana_like = diana_like + 1
     cheetah_like = cheetah_like - 1
 if weapon == "B":
     pass
 
 # update scoring variables based on the job choice
 if job == "A":
-    diane_like = diane_like + 2
+    diana_like = diana_like + 2
     cheetah_like = cheetah_like + 2
 if job == "B":
     max_like = max_like + 2
 
 # update scoring variables based on the value choice
 if value == "A":
-    diane_like = diane_like - 1
+    diana_like = diana_like - 1
     max_like = max_like + 2
 if value == "B":
-    diane_like = diane_like + 1
+    diana_like = diana_like + 1
     trevor_like = trevor_like + 1
 
 # update scoring variables based on the decade choice
@@ -117,7 +117,7 @@ if animal == "B":
     cheetah_like = cheetah_like + 2
 
 # print the results depending on the score
-if diane_like >= 3:
+if diana_like >= 3:
     print( "Hello, Wonder Woman!" )
 elif trevor_like >= 3:
     print( "Hello, Steve Trevor!" )
