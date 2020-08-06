@@ -11,15 +11,20 @@ banner_image: "/site/images/ww84_edu_02_github_program_quiz.png"
 
 We’ll be asking a streamlined version of this quiz. We’ll use just five questions and two options for each: 
 
-Which weapon? (A) Lasso (B) No weapons 
+1. Which weapon? (A) Lasso (B) No weapons 
+1. What’s your dream job? (A) Curator at the Smithsonian (B) Running a business
+1. What’s more important? (A) Money (B) Love
+1. What’s your favorite decade? (A) 1910s (B) 1980s
+1. What’s your favorite big cat? (A) Tiger (B) Cheetah
 
-What’s your dream job? (A) Curator at the Smithsonian (B) Running a business
+We'll use these questions to determine which of the following four you are most like:
 
-What’s more important? (A) Money (B) Love
+- Wonder Woman
+- Barbara Minerva
+- Steve Trevor
+- Max Lord
 
-What’s your favorite decade? (A) 1910s (B) 1980s
-
-What’s your favorite big cat? (A) Tiger (B) Cheetah
+---
 
 Hmm, somehow the Python needs to ask the candidate a question. We can command it to do so using the input command; this gives back (returns) the candidate’s answer, which we can store in a variable. Try replacing the commands in your file with the following. (If you’re wondering what the \n is doing, it tells the Python to put in a new line or hit the “return” key.)
 ```python
