@@ -22,6 +22,6 @@ There’s a secret message that needs a code cracker to find the truth. Learn ho
 ---
 
 ## Super Quiz
-Which WONDER WOMAN 1984 character are you most like? Use the popular programming language Python to build a quiz inspired by WONDER WOMAN 1984 and share it with your friends. This lesson will teach you the basics of Boolean commands and conditionals. No prior background in computer science is needed.
+Which WONDER WOMAN 1984 character are you most like? Use the popular programming language Python to build a quiz inspired by WONDER WOMAN 1984 and share it with your friends. This lesson will teach you the basics of booleans, commands, and conditionals. No prior background in computer science is needed.
 
 ###  [Let's make our quiz >](site/quiz.md)
