@@ -6,10 +6,10 @@ banner_image_bottom: "/site/images/ww84_edu_github_title_card.png"
 
 # **Super Quiz inspired by WONDER WOMAN 1984, coming to theaters**
 
-## The (computer) science behind Wonder Woman’s personality quiz
-Have you ever taken a personality quiz? You answer a series of multiple choice questions and find out things like... "What type of emoji are you?"
+## The (computer) science behind a personality quiz
+Have you ever taken a personality quiz? You answer a series of multiple-choice questions and find out things like... "What type of emoji are you?"
 
-Well, let's help make a new personality quiz for Wonder Woman 1984: ***Which Wonder Woman Character are you?***
+Well, let's help make a new personality quiz for Wonder Woman 1984: ***Which WONDER WOMAN 1984 Character are you most like?***
 
 *No prior background in computer science or Python is assumed.*
 

@@ -93,10 +93,10 @@ Press the Play Button, and you should see the years print out.
 <img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89687921-f2a80800-d8b5-11ea-9cb2-08a12f88f65d.png">
  
 ## Conditionals
-The Python can perform commands depending on some condition. We’re used to conditionals in the real world: “If you’ve been lassoed, then you must tell the truth.” The keyword here is if, which is followed by a condition, where we check whether or not the lasso of truth is around you. When the condition is met (thanks a lot, Wonder Woman), the subsequent command must be followed (the whole truth and nothing but the truth). The Python only expects a condition to either be met or not—it’s either true or false.
+The Python can perform commands depending on some condition. We’re used to conditionals in the real world: “If you’ve been lassoed, then you're compelled to tell the truth.” The keyword here is if, which is followed by a condition, where we check whether or not the lasso of truth is around you. When the condition is met, the subsequent command must be followed. The Python only expects a condition to either be met or not—it’s either true or false.
 
 
-To get a little more comfortable, consider the following strategy that Diana uses for how to spend a day _(the following is not code, it's just plain text to explain a scenario)_:
+To get a little more comfortable, consider the following strategy for how to spend a day _(the following is not code, it's just plain text to explain a scenario)_:
 ```
 if it’s raining cats and dogs
 find a cat
@@ -114,7 +114,7 @@ Now, how could this play out? It could be the case that:
 - It’s raining cats and dogs.
 - The cat you find is hangry (hungry + angry).
 
-In this scenario, Diana does three things:
+In this scenario, you can do three things:
 - She finds a cat.
 - She finds some milk.
 - She gives the milk to the cat.
@@ -122,7 +122,7 @@ In this scenario, Diana does three things:
 What if instead:
 - It’s not raining cats and dogs?
 
-In this scenario, Diana does two things:
+In this scenario, you can do two things:
 - She is happy that it’s not raining animals.
 - She frolics outside.
 

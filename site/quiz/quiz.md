@@ -134,7 +134,7 @@ elif barbara_like >= 3:
 else:
     print( "Hello, Max Lord!")
 ```
-Press the Play button and find out which Wonder Woman personality you’re most like!
+Press the Play button and find out which WONDER WOMAN 1984 personality you’re most like!
  
 <img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89688712-a231aa00-d8b7-11ea-882c-bfe752805bd5.png">
 
