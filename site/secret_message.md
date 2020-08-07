@@ -11,21 +11,12 @@ For a video walkthrough of this lesson, you can follow along with this:
 <iframe src="https://www.youtube.com/embed/5JNNaQjAa7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Your journey begins
-
-You find a mystery envelope on the ground with a cryptic note inside...
+## Let's learn to crack this code to find the easter egg
 
 <img width="576" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
 
-On the back of the note, it reads:
 
-_Can you discover the true meaning of this note? I will give you the details for a meeting place and time, and I’m counting on your skills as a world-famous code-breaker._
-
-_To help you, I’ve enclosed instructions for how to direct an enchanted Python that will do whatever you command._
-
-**Let's crack the this cryptic note to find the easter egg!**
-
-### The mystery note's instructions are below -- follow them to reveal the truth
+### The instructions are below -- follow them to reveal the truth
 
 First, you’ll need a way to command the enchanted Python. Luckily, my team has created something called Visual Studio Code that will allow you to do just that. 
 

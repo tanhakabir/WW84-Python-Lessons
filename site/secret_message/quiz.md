@@ -9,7 +9,7 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 <img width="576" alt="encrypted note" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
 
-## Where will this journey take you? The note continues… 
+## Where will this journey take you?
 
 The Python can simulate certain parts of the future under the right circumstances. Follow these instructions and see if you can discover the hidden location and meeting time, knowing the truth behind the cryptic note.
 
