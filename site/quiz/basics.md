@@ -6,6 +6,8 @@ banner_image_bottom: "/site/images/ww84_edu_github_title_card.png"
 
 # **Super Quiz inspired by WONDER WOMAN 1984, coming to theaters**
 
+![WONDER WOMAN 1984 coming to theaters](../images/ww84_edu_github_title_card.png)
+
 ---
 
 Let’s start by creating a folder on your computer where you can find easily it. Call it “WW84”—I created mine in my Documents folder.

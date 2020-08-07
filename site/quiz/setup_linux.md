@@ -6,6 +6,8 @@ banner_image_bottom: "/site/images/ww84_edu_github_title_card.png"
 
 # **Super Quiz inspired by WONDER WOMAN 1984, coming to theaters**
 
+![WONDER WOMAN 1984 coming to theaters](../images/ww84_edu_github_title_card.png)
+
 ---
 
 ## Setting up Visual Studio Code and Python for Linux
