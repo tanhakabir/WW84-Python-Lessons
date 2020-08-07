@@ -2,6 +2,7 @@
 layout: home
 banner_image: "/site/images/ww84_edu_02_github_program_quiz.png"
 ---
+![Wonder Woman 1984 coming to theaters](images/ww84_edu_github_title_card.png)
 
 # **Super Quiz inspired by WONDER WOMAN 1984, coming to theaters**
 
