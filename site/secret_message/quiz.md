@@ -9,7 +9,7 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 <img width="576" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
 
-## Where will this journey take you? Diana’s note continues… 
+## Where will this journey take you? The note continues… 
 
 The Python can simulate certain parts of the future under the right circumstances. Follow these instructions and see if you can discover the hidden location and meeting time, knowing the truth behind the cryptic note.
 
@@ -26,7 +26,7 @@ elif "D" in response1.upper():
 elif "A" in response1.upper():
     score += 5
     
-response2 = input( "On July 4th, you head to:\n (A) The Grand Canyon\n (B) The White House\n (C) The Empire State Building\n (D) The corner coffee shop (with a nagging feeling that there was something special about today)\n" )
+response2 = input( "On July 4th, you head to:\n (A) The Grand Canyon\n (B) Washington DC\n (C) The Empire State Building\n (D) The corner coffee shop (with a nagging feeling that there was something special about today)\n" )
 
 
 if "B" in response2.upper():

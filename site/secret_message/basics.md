@@ -75,25 +75,25 @@ Press the Play Button, and you should see Diana’s identity revealed.
 <img width="764" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/85450603-ca568b00-b54d-11ea-8278-3d89e7395201.png">
  
 ## Functions
-We can give the Python superpowers (which my team calls functions), which can later be invoked. If we need to change the behavior slightly depending on the situation, we can use additional codenames (my team calls these parameters). 
+We can give the Python powers (which my team calls functions), which can later be invoked. If we need to change the behavior slightly depending on the situation, we can use additional codenames (my team calls these parameters). 
 
-Here’s how we can give the Python the superpower to chant. Given a phrase, it can chant it three times.
+Here’s how we can give the Python the power to chant. Given a phrase, it can chant it three times.
 ```python
-# define a superpower (function) to chant a phrase
+# define a power (function) to chant a phrase
 def chant( phrase ):
     # glue three copies together and message it
     print( phrase + phrase + phrase )
 ```
 
-Try it out by replacing the commands in your file with the following to give the superpower and test it out.
+Try it out by replacing the commands in your file with the following to give the power and test it out.
 ```python
-# define a superpower (function) to chant a phrase
+# define a power (function) to chant a phrase
 def chant( phrase ):
     # glue three copies together and message it
     print( phrase + phrase + phrase )
 
 
-# invoke the superpower chant on the phrase "Wonder Woman! "
+# invoke the power chant on the phrase "Wonder Woman! "
 chant( "Wonder Woman! " )
 ```
 Press the Play Button, and you should see a chant.

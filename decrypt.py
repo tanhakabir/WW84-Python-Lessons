@@ -1,6 +1,6 @@
-# define a superpower (function) that finds the truth by shifting the letter by the specified amount
+# define a power (function) that finds the truth by shifting the letter by the specified amount
 def lassoLetter( letter, shiftAmount ):
-    # use the ord superpower to translate the letter to a special number called its ASCII code 
+    # use the ord power to translate the letter to a special number called its ASCII code 
     # and associate it codename letterCode
     letterCode = ord(letter.lower())
     
@@ -8,11 +8,11 @@ def lassoLetter( letter, shiftAmount ):
     # (my team says that ASCII codes are in order, starting with the code for the letter a)
     trueLetterCode = ord("a") + ((letterCode - ord("a"))+shiftAmount) % 26
    
-    # now reveal the true letter by using the chr superpower to translate back from ASCII
-    # "return" this as a result of invoking the superpower lassoLetter
+    # now reveal the true letter by using the chr power to translate back from ASCII
+    # "return" this as a result of invoking the power lassoLetter
     return chr(trueLetterCode)
 
-# define a superpower (function) that finds the truth
+# define a power (function) that finds the truth
 # by shifting all the letters in a word by the specified amount
 def lassoWord( word, shiftAmount ):
     # this codename (variable) will be updated to store the true phrase after shifting
@@ -20,14 +20,14 @@ def lassoWord( word, shiftAmount ):
     
     # for each letter in the word
     for letter in word:
-        # invoke the superpower (function) lassoLetter to reveal the true letter
+        # invoke the power (function) lassoLetter to reveal the true letter
         # and update the codename trueWord
         trueWord = trueWord + lassoLetter( letter, shiftAmount )
 
     # return the truth
     return trueWord
 
-# try out the superpower on the phrase
+# try out the power on the phrase
 print( "Shifting WHY by 13 gives: \n" + lassoWord( "WHY", 13 ) )
 print( "Shifting oskza by -18 gives: \n" + lassoWord( "oskza", -18 ) )
 print( "Shifting ohupo by -1 gives: \n" + lassoWord( "ohupo", -1 ) )
@@ -45,7 +45,7 @@ elif "D" in response1.upper():
 elif "A" in response1.upper():
     score += 5
     
-response2 = input( "On July 4th, you head to:\n (A) The Grand Canyon\n (B) The White House\n (C) The Empire State Building\n (D) The corner coffee shop (with a nagging feeling that there was something special about today)\n" )
+response2 = input( "On July 4th, you head to:\n (A) The Grand Canyon\n (B) Washington DC\n (C) The Empire State Building\n (D) The corner coffee shop (with a nagging feeling that there was something special about today)\n" )
 
 
 if "B" in response2.upper():
