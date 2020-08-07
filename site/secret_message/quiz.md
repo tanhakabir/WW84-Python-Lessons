@@ -7,7 +7,7 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 ---
 
-<img width="576" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
+<img width="576" alt="encrypted note" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
 
 ## Where will this journey take you? The note continues… 
 
@@ -45,7 +45,7 @@ else:
 
 Press the Play Button, and use the clues in the cryptic note to answer the questions. Click the TERMINAL area at the bottom and type the letter for your response, then hit return. Answer all the questions to glimpse your future. Did you save the day?
 
-<img width="957" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/85894863-61b81a00-b7aa-11ea-8f3c-19e9732cff9d.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89686815-e58a1980-d8b3-11ea-9275-26c2de86ab48.png">
 
 
 Check your work with the completed code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/decrypt.py){:target="_blank"}.

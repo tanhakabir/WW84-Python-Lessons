@@ -7,7 +7,7 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 ---
 
-<img width="576" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
+<img width="576" alt="encrypted note" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">
 
 ## Okay, time to get cracking
 
@@ -47,6 +47,10 @@ def lassoWord( word, shiftAmount ):
     # return the truth
     return trueWord
 ```
+With these powers, your code should look like this:
+
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89686385-233a7280-d8b3-11ea-9172-1eb0cda90e80.png">
+
 Press the Play Button, and … nothing should happen … We only endowed the Python with the power, but didn’t invoke it. We will test it by invoking the lassoWord power on the word terra—shifting by 13 should reveal the true word “green.”
 
 ```python
@@ -55,7 +59,7 @@ print( "Shifting terra by 13 gives: \n" + lassoWord( "terra", 13 ) )
 ```
 Press the Play Button, and you should see the truth revealed for "terra"!
 
-<img width="958" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/85451214-80ba7000-b54e-11ea-80c2-366bb144df7a.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89686573-757b9380-d8b3-11ea-857d-6fc2ee84a210.png">
  
 ## Now… command the Python to use its new power to reveal the truth
 Modify the commands in your file to reveal the truth behind:
