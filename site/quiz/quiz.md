@@ -37,11 +37,11 @@ print( f"You chose {weapon}.")
 
 Press the Play button, and you should see the question print out, along with the options. Click in the TERMINAL area and try typing A then “enter” to see what happens.
 
-<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/87186135-d2c5fa00-c29f-11ea-8db7-a0e58bed61d0.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89688177-81b52000-d8b6-11ea-98b1-b84b9e5f305e.png">
  
 Notice that the weapon variable simply stores whatever you typed. Try typing lion instead and see what happens…
 
-<img width="330" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/86166879-64787f00-baca-11ea-9ebd-dcd20a74b182.png">
+<img width="282" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89688296-b45f1880-d8b6-11ea-9611-d155de306764.png">
  
 For now, let’s assume the candidate understands that they should type the letter of their choice (and capitalize it correctly). Then we can use a conditional to have the Python execute commands depending on what they chose. Try adding the following commands to your file:
 ```python
@@ -49,9 +49,11 @@ For now, let’s assume the candidate understands that they should type the lett
 if weapon == "A":
     print( "Nice choice!" )
 ```
-Press the Play button and try entering A as your choice.  What happens if you enter B instead?
+Press the Play button and try entering A as your choice. Be sure to type in a capital A.
 
-<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/87186265-0d2f9700-c2a0-11ea-859d-792710623259.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89688477-1fa8ea80-d8b7-11ea-8db1-e2315b82357f.png">
+
+What happens if you enter B instead? Can you add another print out for the choice B?
  
 ---
 
@@ -77,9 +79,9 @@ print( f"You chose {weapon}, then {job}, then {value}, then {decade}, then {anim
 ```
 Press the Play button and make sure your responses are recorded correctly.
 
-<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89483239-67613200-d750-11ea-8bdf-64274450f71b.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89688563-4f57f280-d8b7-11ea-9e69-1538ebaf90e8.png">
  
-Now it’s time to really score the quiz. With five questions and different choices, we’ll use some variables to guide our response. Add the following commands to your file.
+Now it’s time to really score the quiz. With five questions and different choices, we’ll use some variables to guide our response. We'll add and subtract points from each of the four characters depending on what you choose to answer. At the end we'll tally up all the points and tell you which character you are most like. Add the following commands to your file.
 ```python
 # create some variables for scoring
 diana_like = 0
@@ -133,7 +135,7 @@ else:
 ```
 Press the Play button and find out which Wonder Woman personality you’re most like!
  
-<img width="960" src="https://user-images.githubusercontent.com/12758612/89481092-d720ee00-d74b-11ea-818f-0d9046457fb3.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89688712-a231aa00-d8b7-11ea-882c-bfe752805bd5.png">
 
 Check your code with the completed quiz code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/quiz.py){:target="_blank"}.
 
