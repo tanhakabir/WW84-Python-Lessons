@@ -55,24 +55,24 @@ Press the Play Button, and you should see the same behavior as before.
 ## Variables
 It turns out that the Python has the memory of a goldfish, and we have to explicitly command it to “remember” things. It really likes being part of a secret mission, so we use “codenames” (our team calls these variables) to have it remember certain things. 
 
-The following command tells the Python to associate the codename diana with "Wonder Woman" using the special assignment `=` sign operator. Any time after this command, when the Python sees codename  `diana`, it will substitute in "Wonder Woman"!
+The following command tells the Python to associate the codename diana with "WONDER WOMAN 1984" using the special assignment `=` sign operator. Any time after this command, when the Python sees codename  `diana`, it will substitute in "WONDER WOMAN 1984"!
 ```python
 # associate code name (variable) diana with
-# the value "Wonder Woman"
-diana = "Wonder Woman"
+# the value "WONDER WOMAN 1984"
+diana = "WONDER WOMAN 1984"
 ```
 Try it out by replacing the commands in your file with the following. (If you’re wondering what the + sign is doing, it “glues together” phrases into a longer phrase.)
 ```python
 # associate code name diana with
-# the phrase "Wonder Woman"
-diana = "Wonder Woman"
+# the phrase "WONDER WOMAN 1984"
+diana = "WONDER WOMAN 1984"
 
 # print a message with the true identity of diana
 print( "I believe diana is actually " + diana )
 ```
 Press the Play Button, and you should see Diana’s identity revealed.
 
-<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89685972-44e72a00-d8b2-11ea-8d1b-4533bec7803a.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89691707-7534c580-d8be-11ea-9a26-c7a02f0c75e9.png">
  
 ## Functions
 We can give the Python powers (which my team calls functions), which can later be invoked. If we need to change the behavior slightly depending on the situation, we can use additional codenames (my team calls these parameters). 
@@ -93,12 +93,12 @@ def chant( phrase ):
     print( phrase + phrase + phrase )
 
 
-# invoke the power chant on the phrase "Wonder Woman! "
-chant( "Wonder Woman! " )
+# invoke the power chant on the phrase "WONDER WOMAN 1984! "
+chant( "WONDER WOMAN 1984! " )
 ```
 Press the Play Button, and you should see a chant.
 
-<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89686110-90013d00-d8b2-11ea-823f-2d80ee0f2f81.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89691783-b200bc80-d8be-11ea-8c14-3cabec3fca4c.png">
 
 Great! Now that you know the basics, let's get to decrypting the note.
 

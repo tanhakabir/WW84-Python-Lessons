@@ -11,7 +11,7 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 ## Where will this journey take you?
 
-The Python can simulate certain parts of the future under the right circumstances. Follow these instructions and see if you can discover the hidden location and meeting time, knowing the truth behind the cryptic note.
+The Python can simulate certain parts of the future under the right circumstances. Follow these instructions and see if you can discover the hidden location and meeting time, knowing the truth behind the cryptic message.
 
 Copy the following below your decryption code:
 ```python
@@ -36,11 +36,11 @@ elif "D" in response2.upper():
 
 
 if score == 20: 
-    print( "You discovered the easter egg location! You cracked the cryptic note and found the true meaning behind \"oskza ohupo\"!" )
+    print( "You discovered the secret location! You cracked the cryptic note and found the true meaning behind \"oskza ohupo\"!" )
 elif score > 0:
     print( "Whoops! You got a little lost along the way, try decrypting the note again!" )
 else: 
-    print( "What are you doing having a latte and a scone when you're supposed to be at the easter egg location?!")
+    print( "What are you doing having a latte and a scone when you're supposed to be at the secret location?!")
 ```
 
 Press the Play Button, and use the clues in the cryptic note to answer the questions. Click the TERMINAL area at the bottom and type the letter for your response, then hit return. Answer all the questions to glimpse your future. Did you save the day?

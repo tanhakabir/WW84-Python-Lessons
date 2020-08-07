@@ -11,7 +11,7 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 ## Okay, time to get cracking
 
-I think the message might be encrypted with something called a “Caesar cipher,” where all the letters are shifted in the alphabet by some amount. I’ll need you to give the Python its own Golden Lasso power for finding the true meaning of the words "WHY", “oskza”, “ohupo”, and "ED".
+I think the message might be encrypted with something called a “Caesar cipher,” where all the letters are shifted in the alphabet by some amount. Similar to Wonder Woman’s golden lasso, I’ll need you to give the Python the power to find the true meaning of the words "WHY", “oskza”, “ohupo”, and "ED".
 
 Let’s start by giving the power to shift a single letter. You might notice some other commands in here, but we don’t have time to cover them all right now. Replace the code in your file with the following: 
 ```python
@@ -70,4 +70,4 @@ Modify the commands in your file to reveal the truth behind:
 
 Press the Play Button, and you should see the final clue to the true meeting place and time revealed.
 
-### [Let's see if we found easter egg! >](quiz.md)
+### [Let's see if we found the clue! >](quiz.md)
