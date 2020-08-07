@@ -5,6 +5,8 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 # **Secret Message inspired by WONDER WOMAN 1984, coming to theaters**
 
+![WONDER WOMAN 1984 coming to theaters](../images/ww84_edu_00_github_coming_soon.png)
+
 ---
 
 <img width="576" alt="encrypted note" src="https://user-images.githubusercontent.com/12758612/86677410-6baef980-bfb0-11ea-95e1-4c766bb569f8.png">

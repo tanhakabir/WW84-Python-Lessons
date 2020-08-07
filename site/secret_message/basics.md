@@ -5,6 +5,8 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 # **Secret Message inspired by WONDER WOMAN 1984, coming to theaters**
 
+![WONDER WOMAN 1984 coming to theaters](../images/ww84_edu_00_github_coming_soon.png)
+
 ---
 
 Let’s start by creating a folder on your computer where you can find easily it. Call it “WW84”—I created mine in my Documents folder.

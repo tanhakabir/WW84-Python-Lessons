@@ -5,6 +5,8 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 
 # **Secret Message inspired by WONDER WOMAN 1984, coming to theaters**
 
+![WONDER WOMAN 1984 coming to theaters](../images/ww84_edu_00_github_coming_soon.png)
+
 ---
 
 ## Setting up Visual Studio Code and Python for Windows
