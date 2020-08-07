@@ -115,16 +115,16 @@ Now, how could this play out? It could be the case that:
 - The cat you find is hangry (hungry + angry).
 
 In this scenario, you can do three things:
-- She finds a cat.
-- She finds some milk.
-- She gives the milk to the cat.
+- You find a cat.
+- You find some milk.
+- You give the milk to the cat.
 
 What if instead:
 - It’s not raining cats and dogs?
 
 In this scenario, you can do two things:
-- She is happy that it’s not raining animals.
-- She frolics outside.
+- You are happy that it’s not raining animals.
+- You frolic outside.
 
 There are a few more possible scenarios, but let’s move on to how we can use conditionals to command the Python in our year example.
 

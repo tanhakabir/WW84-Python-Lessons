@@ -126,17 +126,17 @@ if animal == "B":
 
 # print the results depending on the score
 if diana_like >= 3:
-    print( "Hello, Wonder Woman!" )
+    print( "You're most like Wonder Woman!" )
 elif trevor_like >= 3:
-    print( "Hello, Steve Trevor!" )
+    print( "You're most like Steve Trevor!" )
 elif barbara_like >= 3:
-    print( "Hello, Barbara Minerva!")
+    print( "You're most like Barbara Minerva!")
 else:
-    print( "Hello, Max Lord!")
+    print( "You're most like Max Lord!")
 ```
 Press the Play button and find out which WONDER WOMAN 1984 personality you’re most like!
  
-<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89688712-a231aa00-d8b7-11ea-882c-bfe752805bd5.png">
+<img width="960" alt="screenshot" src="https://user-images.githubusercontent.com/12758612/89692637-1e7cbb00-d8c1-11ea-85e6-c6bab0eac44c.png">
 
 Check your code with the completed quiz code [**here**](https://github.com/microsoft/WW84-Python-Lessons/blob/master/quiz.py){:target="_blank"}.
 

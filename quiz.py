@@ -55,10 +55,10 @@ if animal == "B":
 
 # print the results depending on the score
 if diana_like >= 3:
-    print( "Hello, Wonder Woman!" )
+    print( "You're most like Wonder Woman!" )
 elif trevor_like >= 3:
-    print( "Hello, Steve Trevor!" )
+    print( "You're most like Steve Trevor!" )
 elif barbara_like >= 3:
-    print( "Hello, Barbara Minerva!")
+    print( "You're most like Barbara Minerva!")
 else:
-    print( "Hello, Max Lord!")
+    print( "You're most like Max Lord!")
