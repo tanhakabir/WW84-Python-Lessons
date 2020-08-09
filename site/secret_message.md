@@ -10,7 +10,7 @@ banner_image: "/site/images/ww84_edu_01_github_decode_msg.png"
 There’s a secret message encoded with a location and date inspired by WONDER WOMAN 1984. Crack the code using Python programming language and find it in this lesson. For optimal experience, download Visual Studio Code.
 
 For a video walkthrough of this lesson, you can follow along with this:
-<iframe src="https://www.youtube.com/embed/O9WXvc1N8Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/TZrRQ7lJhcw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Let's learn to crack this code to find the easter egg
