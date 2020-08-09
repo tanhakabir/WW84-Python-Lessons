@@ -1,11 +1,8 @@
 ---
 layout: lesson
-banner_image_top: "/site/images/ww84_edu_02_github_program_quiz.png"
-banner_image_bottom: "/site/images/ww84_edu_github_title_card.png"
+banner_image: "/site/images/ww84_edu_02_github_program_quiz.png"
+lesson_name: "Super Quiz"
 ---
-
-# **Super Quiz inspired by**
-# **WONDER WOMAN 1984, coming to theaters**
 
 ![WONDER WOMAN 1984 coming to theaters](images/ww84_edu_github_title_card.png)
 
